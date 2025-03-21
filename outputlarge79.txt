@@ -1,0 +1,2076 @@
+
+Loaded 1000 instances with 40 features
+
+Validating with strict MATLAB equivalence...
+MATLAB-style Accuracy: 68.50%
+
+Running optimized version...
+Vectorized Accuracy: 68.50%
+
+Starting Forward Selection...
+   Testing feature 1 ➔ Accuracy: 70.4%
+   Testing feature 2 ➔ Accuracy: 69.8%
+   Testing feature 3 ➔ Accuracy: 70.4%
+   Testing feature 4 ➔ Accuracy: 69.1%
+   Testing feature 5 ➔ Accuracy: 69.7%
+   Testing feature 6 ➔ Accuracy: 71.8%
+   Testing feature 7 ➔ Accuracy: 70.4%
+   Testing feature 8 ➔ Accuracy: 70.9%
+   Testing feature 9 ➔ Accuracy: 69.9%
+   Testing feature 10 ➔ Accuracy: 70.9%
+   Testing feature 11 ➔ Accuracy: 69.8%
+   Testing feature 12 ➔ Accuracy: 69.4%
+   Testing feature 13 ➔ Accuracy: 71.0%
+   Testing feature 14 ➔ Accuracy: 68.3%
+   Testing feature 15 ➔ Accuracy: 70.8%
+   Testing feature 16 ➔ Accuracy: 69.5%
+   Testing feature 17 ➔ Accuracy: 69.6%
+   Testing feature 18 ➔ Accuracy: 71.4%
+   Testing feature 19 ➔ Accuracy: 83.4%
+   Testing feature 20 ➔ Accuracy: 69.0%
+   Testing feature 21 ➔ Accuracy: 68.5%
+   Testing feature 22 ➔ Accuracy: 69.4%
+   Testing feature 23 ➔ Accuracy: 68.1%
+   Testing feature 24 ➔ Accuracy: 70.2%
+   Testing feature 25 ➔ Accuracy: 69.2%
+   Testing feature 26 ➔ Accuracy: 68.2%
+   Testing feature 27 ➔ Accuracy: 69.2%
+   Testing feature 28 ➔ Accuracy: 70.9%
+   Testing feature 29 ➔ Accuracy: 69.2%
+   Testing feature 30 ➔ Accuracy: 68.7%
+   Testing feature 31 ➔ Accuracy: 70.5%
+   Testing feature 32 ➔ Accuracy: 71.6%
+   Testing feature 33 ➔ Accuracy: 71.1%
+   Testing feature 34 ➔ Accuracy: 71.4%
+   Testing feature 35 ➔ Accuracy: 74.3%
+   Testing feature 36 ➔ Accuracy: 70.3%
+   Testing feature 37 ➔ Accuracy: 69.5%
+   Testing feature 38 ➔ Accuracy: 70.2%
+   Testing feature 39 ➔ Accuracy: 68.0%
+   Testing feature 40 ➔ Accuracy: 71.0%
+
+ Step 1: Added feature 19
+   Current features: [19] ➔ Accuracy: 83.4%
+   Testing feature 1 ➔ Accuracy: 83.2%
+   Testing feature 2 ➔ Accuracy: 83.3%
+   Testing feature 3 ➔ Accuracy: 83.7%
+   Testing feature 4 ➔ Accuracy: 83.5%
+   Testing feature 5 ➔ Accuracy: 81.9%
+   Testing feature 6 ➔ Accuracy: 83.4%
+   Testing feature 7 ➔ Accuracy: 83.4%
+   Testing feature 8 ➔ Accuracy: 82.7%
+   Testing feature 9 ➔ Accuracy: 83.4%
+   Testing feature 10 ➔ Accuracy: 83.2%
+   Testing feature 11 ➔ Accuracy: 83.8%
+   Testing feature 12 ➔ Accuracy: 82.6%
+   Testing feature 13 ➔ Accuracy: 83.1%
+   Testing feature 14 ➔ Accuracy: 81.7%
+   Testing feature 15 ➔ Accuracy: 84.7%
+   Testing feature 16 ➔ Accuracy: 85.2%
+   Testing feature 17 ➔ Accuracy: 82.1%
+   Testing feature 18 ➔ Accuracy: 83.8%
+   Testing feature 20 ➔ Accuracy: 82.1%
+   Testing feature 21 ➔ Accuracy: 83.6%
+   Testing feature 22 ➔ Accuracy: 83.7%
+   Testing feature 23 ➔ Accuracy: 81.4%
+   Testing feature 24 ➔ Accuracy: 82.5%
+   Testing feature 25 ➔ Accuracy: 82.2%
+   Testing feature 26 ➔ Accuracy: 83.2%
+   Testing feature 27 ➔ Accuracy: 83.0%
+   Testing feature 28 ➔ Accuracy: 82.9%
+   Testing feature 29 ➔ Accuracy: 83.8%
+   Testing feature 30 ➔ Accuracy: 81.7%
+   Testing feature 31 ➔ Accuracy: 81.2%
+   Testing feature 32 ➔ Accuracy: 82.3%
+   Testing feature 33 ➔ Accuracy: 84.7%
+   Testing feature 34 ➔ Accuracy: 83.3%
+   Testing feature 35 ➔ Accuracy: 95.7%
+   Testing feature 36 ➔ Accuracy: 83.4%
+   Testing feature 37 ➔ Accuracy: 84.9%
+   Testing feature 38 ➔ Accuracy: 83.6%
+   Testing feature 39 ➔ Accuracy: 83.2%
+   Testing feature 40 ➔ Accuracy: 84.0%
+
+ Step 2: Added feature 35
+   Current features: [19, 35] ➔ Accuracy: 95.7%
+   Testing feature 1 ➔ Accuracy: 92.6%
+   Testing feature 2 ➔ Accuracy: 92.7%
+   Testing feature 3 ➔ Accuracy: 93.1%
+   Testing feature 4 ➔ Accuracy: 92.7%
+   Testing feature 5 ➔ Accuracy: 94.0%
+   Testing feature 6 ➔ Accuracy: 94.1%
+   Testing feature 7 ➔ Accuracy: 92.5%
+   Testing feature 8 ➔ Accuracy: 93.9%
+   Testing feature 9 ➔ Accuracy: 93.3%
+   Testing feature 10 ➔ Accuracy: 92.7%
+   Testing feature 11 ➔ Accuracy: 93.1%
+   Testing feature 12 ➔ Accuracy: 93.6%
+   Testing feature 13 ➔ Accuracy: 94.3%
+   Testing feature 14 ➔ Accuracy: 92.2%
+   Testing feature 15 ➔ Accuracy: 93.5%
+   Testing feature 16 ➔ Accuracy: 92.4%
+   Testing feature 17 ➔ Accuracy: 92.7%
+   Testing feature 18 ➔ Accuracy: 92.6%
+   Testing feature 20 ➔ Accuracy: 92.6%
+   Testing feature 21 ➔ Accuracy: 91.2%
+   Testing feature 22 ➔ Accuracy: 93.3%
+   Testing feature 23 ➔ Accuracy: 93.3%
+   Testing feature 24 ➔ Accuracy: 93.3%
+   Testing feature 25 ➔ Accuracy: 91.1%
+   Testing feature 26 ➔ Accuracy: 93.3%
+   Testing feature 27 ➔ Accuracy: 93.6%
+   Testing feature 28 ➔ Accuracy: 92.6%
+   Testing feature 29 ➔ Accuracy: 92.5%
+   Testing feature 30 ➔ Accuracy: 93.5%
+   Testing feature 31 ➔ Accuracy: 93.0%
+   Testing feature 32 ➔ Accuracy: 93.0%
+   Testing feature 33 ➔ Accuracy: 93.2%
+   Testing feature 34 ➔ Accuracy: 94.4%
+   Testing feature 36 ➔ Accuracy: 93.2%
+   Testing feature 37 ➔ Accuracy: 93.4%
+   Testing feature 38 ➔ Accuracy: 93.0%
+   Testing feature 39 ➔ Accuracy: 92.7%
+   Testing feature 40 ➔ Accuracy: 93.4%
+
+ Step 3: No improvement. Final accuracy: 95.7%
+
+
+=== Final Result(forward) ===
+Optimal feature subset: [19, 35]
+Maximum accuracy achieved: 95.7%
+
+=== Search History(forward) ===
+Step  1 | +Feature 19 | Acc: 83.4% | Current: [19]
+Step  2 | +Feature 35 | Acc: 95.7% | Current: [19, 35]
+
+Starting Forward Selection (Full Search)
+Total features to evaluate: 40
+
+=== Level 1 ===
+  Testing feature 1 ➔ Accuracy: 70.40%
+  Testing feature 2 ➔ Accuracy: 69.80%
+  Testing feature 3 ➔ Accuracy: 70.40%
+  Testing feature 4 ➔ Accuracy: 69.10%
+  Testing feature 5 ➔ Accuracy: 69.70%
+  Testing feature 6 ➔ Accuracy: 71.80%
+  Testing feature 7 ➔ Accuracy: 70.40%
+  Testing feature 8 ➔ Accuracy: 70.90%
+  Testing feature 9 ➔ Accuracy: 69.90%
+  Testing feature 10 ➔ Accuracy: 70.90%
+  Testing feature 11 ➔ Accuracy: 69.80%
+  Testing feature 12 ➔ Accuracy: 69.40%
+  Testing feature 13 ➔ Accuracy: 71.00%
+  Testing feature 14 ➔ Accuracy: 68.30%
+  Testing feature 15 ➔ Accuracy: 70.80%
+  Testing feature 16 ➔ Accuracy: 69.50%
+  Testing feature 17 ➔ Accuracy: 69.60%
+  Testing feature 18 ➔ Accuracy: 71.40%
+  Testing feature 19 ➔ Accuracy: 83.40%
+  Testing feature 20 ➔ Accuracy: 69.00%
+  Testing feature 21 ➔ Accuracy: 68.50%
+  Testing feature 22 ➔ Accuracy: 69.40%
+  Testing feature 23 ➔ Accuracy: 68.10%
+  Testing feature 24 ➔ Accuracy: 70.20%
+  Testing feature 25 ➔ Accuracy: 69.20%
+  Testing feature 26 ➔ Accuracy: 68.20%
+  Testing feature 27 ➔ Accuracy: 69.20%
+  Testing feature 28 ➔ Accuracy: 70.90%
+  Testing feature 29 ➔ Accuracy: 69.20%
+  Testing feature 30 ➔ Accuracy: 68.70%
+  Testing feature 31 ➔ Accuracy: 70.50%
+  Testing feature 32 ➔ Accuracy: 71.60%
+  Testing feature 33 ➔ Accuracy: 71.10%
+  Testing feature 34 ➔ Accuracy: 71.40%
+  Testing feature 35 ➔ Accuracy: 74.30%
+  Testing feature 36 ➔ Accuracy: 70.30%
+  Testing feature 37 ➔ Accuracy: 69.50%
+  Testing feature 38 ➔ Accuracy: 70.20%
+  Testing feature 39 ➔ Accuracy: 68.00%
+  Testing feature 40 ➔ Accuracy: 71.00%
+
+=== Level 2 ===
+  Testing feature 1 ➔ Accuracy: 83.20%
+  Testing feature 2 ➔ Accuracy: 83.30%
+  Testing feature 3 ➔ Accuracy: 83.70%
+  Testing feature 4 ➔ Accuracy: 83.50%
+  Testing feature 5 ➔ Accuracy: 81.90%
+  Testing feature 6 ➔ Accuracy: 83.40%
+  Testing feature 7 ➔ Accuracy: 83.40%
+  Testing feature 8 ➔ Accuracy: 82.70%
+  Testing feature 9 ➔ Accuracy: 83.40%
+  Testing feature 10 ➔ Accuracy: 83.20%
+  Testing feature 11 ➔ Accuracy: 83.80%
+  Testing feature 12 ➔ Accuracy: 82.60%
+  Testing feature 13 ➔ Accuracy: 83.10%
+  Testing feature 14 ➔ Accuracy: 81.70%
+  Testing feature 15 ➔ Accuracy: 84.70%
+  Testing feature 16 ➔ Accuracy: 85.20%
+  Testing feature 17 ➔ Accuracy: 82.10%
+  Testing feature 18 ➔ Accuracy: 83.80%
+  Testing feature 20 ➔ Accuracy: 82.10%
+  Testing feature 21 ➔ Accuracy: 83.60%
+  Testing feature 22 ➔ Accuracy: 83.70%
+  Testing feature 23 ➔ Accuracy: 81.40%
+  Testing feature 24 ➔ Accuracy: 82.50%
+  Testing feature 25 ➔ Accuracy: 82.20%
+  Testing feature 26 ➔ Accuracy: 83.20%
+  Testing feature 27 ➔ Accuracy: 83.00%
+  Testing feature 28 ➔ Accuracy: 82.90%
+  Testing feature 29 ➔ Accuracy: 83.80%
+  Testing feature 30 ➔ Accuracy: 81.70%
+  Testing feature 31 ➔ Accuracy: 81.20%
+  Testing feature 32 ➔ Accuracy: 82.30%
+  Testing feature 33 ➔ Accuracy: 84.70%
+  Testing feature 34 ➔ Accuracy: 83.30%
+  Testing feature 35 ➔ Accuracy: 95.70%
+  Testing feature 36 ➔ Accuracy: 83.40%
+  Testing feature 37 ➔ Accuracy: 84.90%
+  Testing feature 38 ➔ Accuracy: 83.60%
+  Testing feature 39 ➔ Accuracy: 83.20%
+  Testing feature 40 ➔ Accuracy: 84.00%
+
+=== Level 3 ===
+  Testing feature 1 ➔ Accuracy: 92.60%
+  Testing feature 2 ➔ Accuracy: 92.70%
+  Testing feature 3 ➔ Accuracy: 93.10%
+  Testing feature 4 ➔ Accuracy: 92.70%
+  Testing feature 5 ➔ Accuracy: 94.00%
+  Testing feature 6 ➔ Accuracy: 94.10%
+  Testing feature 7 ➔ Accuracy: 92.50%
+  Testing feature 8 ➔ Accuracy: 93.90%
+  Testing feature 9 ➔ Accuracy: 93.30%
+  Testing feature 10 ➔ Accuracy: 92.70%
+  Testing feature 11 ➔ Accuracy: 93.10%
+  Testing feature 12 ➔ Accuracy: 93.60%
+  Testing feature 13 ➔ Accuracy: 94.30%
+  Testing feature 14 ➔ Accuracy: 92.20%
+  Testing feature 15 ➔ Accuracy: 93.50%
+  Testing feature 16 ➔ Accuracy: 92.40%
+  Testing feature 17 ➔ Accuracy: 92.70%
+  Testing feature 18 ➔ Accuracy: 92.60%
+  Testing feature 20 ➔ Accuracy: 92.60%
+  Testing feature 21 ➔ Accuracy: 91.20%
+  Testing feature 22 ➔ Accuracy: 93.30%
+  Testing feature 23 ➔ Accuracy: 93.30%
+  Testing feature 24 ➔ Accuracy: 93.30%
+  Testing feature 25 ➔ Accuracy: 91.10%
+  Testing feature 26 ➔ Accuracy: 93.30%
+  Testing feature 27 ➔ Accuracy: 93.60%
+  Testing feature 28 ➔ Accuracy: 92.60%
+  Testing feature 29 ➔ Accuracy: 92.50%
+  Testing feature 30 ➔ Accuracy: 93.50%
+  Testing feature 31 ➔ Accuracy: 93.00%
+  Testing feature 32 ➔ Accuracy: 93.00%
+  Testing feature 33 ➔ Accuracy: 93.20%
+  Testing feature 34 ➔ Accuracy: 94.40%
+  Testing feature 36 ➔ Accuracy: 93.20%
+  Testing feature 37 ➔ Accuracy: 93.40%
+  Testing feature 38 ➔ Accuracy: 93.00%
+  Testing feature 39 ➔ Accuracy: 92.70%
+  Testing feature 40 ➔ Accuracy: 93.40%
+  Accuracy dropped from 95.70% to 94.40%
+
+=== Level 4 ===
+  Testing feature 1 ➔ Accuracy: 89.10%
+  Testing feature 2 ➔ Accuracy: 89.10%
+  Testing feature 3 ➔ Accuracy: 88.00%
+  Testing feature 4 ➔ Accuracy: 90.40%
+  Testing feature 5 ➔ Accuracy: 90.80%
+  Testing feature 6 ➔ Accuracy: 91.90%
+  Testing feature 7 ➔ Accuracy: 90.70%
+  Testing feature 8 ➔ Accuracy: 89.30%
+  Testing feature 9 ➔ Accuracy: 90.00%
+  Testing feature 10 ➔ Accuracy: 88.60%
+  Testing feature 11 ➔ Accuracy: 88.80%
+  Testing feature 12 ➔ Accuracy: 89.50%
+  Testing feature 13 ➔ Accuracy: 90.70%
+  Testing feature 14 ➔ Accuracy: 90.00%
+  Testing feature 15 ➔ Accuracy: 91.00%
+  Testing feature 16 ➔ Accuracy: 88.50%
+  Testing feature 17 ➔ Accuracy: 89.60%
+  Testing feature 18 ➔ Accuracy: 91.00%
+  Testing feature 20 ➔ Accuracy: 89.70%
+  Testing feature 21 ➔ Accuracy: 91.10%
+  Testing feature 22 ➔ Accuracy: 90.10%
+  Testing feature 23 ➔ Accuracy: 88.10%
+  Testing feature 24 ➔ Accuracy: 90.50%
+  Testing feature 25 ➔ Accuracy: 87.90%
+  Testing feature 26 ➔ Accuracy: 90.30%
+  Testing feature 27 ➔ Accuracy: 89.50%
+  Testing feature 28 ➔ Accuracy: 88.70%
+  Testing feature 29 ➔ Accuracy: 89.60%
+  Testing feature 30 ➔ Accuracy: 88.00%
+  Testing feature 31 ➔ Accuracy: 89.50%
+  Testing feature 32 ➔ Accuracy: 91.00%
+  Testing feature 33 ➔ Accuracy: 90.70%
+  Testing feature 36 ➔ Accuracy: 89.80%
+  Testing feature 37 ➔ Accuracy: 90.20%
+  Testing feature 38 ➔ Accuracy: 90.00%
+  Testing feature 39 ➔ Accuracy: 89.60%
+  Testing feature 40 ➔ Accuracy: 89.40%
+  Accuracy dropped from 95.70% to 91.90%
+
+=== Level 5 ===
+  Testing feature 1 ➔ Accuracy: 88.50%
+  Testing feature 2 ➔ Accuracy: 87.10%
+  Testing feature 3 ➔ Accuracy: 88.20%
+  Testing feature 4 ➔ Accuracy: 87.40%
+  Testing feature 5 ➔ Accuracy: 88.70%
+  Testing feature 7 ➔ Accuracy: 86.30%
+  Testing feature 8 ➔ Accuracy: 88.20%
+  Testing feature 9 ➔ Accuracy: 88.60%
+  Testing feature 10 ➔ Accuracy: 86.40%
+  Testing feature 11 ➔ Accuracy: 87.60%
+  Testing feature 12 ➔ Accuracy: 87.10%
+  Testing feature 13 ➔ Accuracy: 88.00%
+  Testing feature 14 ➔ Accuracy: 87.90%
+  Testing feature 15 ➔ Accuracy: 87.70%
+  Testing feature 16 ➔ Accuracy: 86.40%
+  Testing feature 17 ➔ Accuracy: 88.80%
+  Testing feature 18 ➔ Accuracy: 88.50%
+  Testing feature 20 ➔ Accuracy: 88.00%
+  Testing feature 21 ➔ Accuracy: 88.00%
+  Testing feature 22 ➔ Accuracy: 87.30%
+  Testing feature 23 ➔ Accuracy: 87.40%
+  Testing feature 24 ➔ Accuracy: 86.90%
+  Testing feature 25 ➔ Accuracy: 86.80%
+  Testing feature 26 ➔ Accuracy: 88.70%
+  Testing feature 27 ➔ Accuracy: 87.80%
+  Testing feature 28 ➔ Accuracy: 87.10%
+  Testing feature 29 ➔ Accuracy: 87.70%
+  Testing feature 30 ➔ Accuracy: 85.90%
+  Testing feature 31 ➔ Accuracy: 88.10%
+  Testing feature 32 ➔ Accuracy: 89.50%
+  Testing feature 33 ➔ Accuracy: 89.00%
+  Testing feature 36 ➔ Accuracy: 87.00%
+  Testing feature 37 ➔ Accuracy: 87.30%
+  Testing feature 38 ➔ Accuracy: 88.10%
+  Testing feature 39 ➔ Accuracy: 87.10%
+  Testing feature 40 ➔ Accuracy: 86.40%
+  Accuracy dropped from 95.70% to 89.50%
+
+=== Level 6 ===
+  Testing feature 1 ➔ Accuracy: 86.30%
+  Testing feature 2 ➔ Accuracy: 86.00%
+  Testing feature 3 ➔ Accuracy: 86.60%
+  Testing feature 4 ➔ Accuracy: 84.60%
+  Testing feature 5 ➔ Accuracy: 86.20%
+  Testing feature 7 ➔ Accuracy: 85.00%
+  Testing feature 8 ➔ Accuracy: 84.20%
+  Testing feature 9 ➔ Accuracy: 85.00%
+  Testing feature 10 ➔ Accuracy: 84.00%
+  Testing feature 11 ➔ Accuracy: 83.90%
+  Testing feature 12 ➔ Accuracy: 85.00%
+  Testing feature 13 ➔ Accuracy: 85.30%
+  Testing feature 14 ➔ Accuracy: 85.20%
+  Testing feature 15 ➔ Accuracy: 84.50%
+  Testing feature 16 ➔ Accuracy: 86.00%
+  Testing feature 17 ➔ Accuracy: 86.40%
+  Testing feature 18 ➔ Accuracy: 86.00%
+  Testing feature 20 ➔ Accuracy: 84.60%
+  Testing feature 21 ➔ Accuracy: 84.10%
+  Testing feature 22 ➔ Accuracy: 83.30%
+  Testing feature 23 ➔ Accuracy: 86.00%
+  Testing feature 24 ➔ Accuracy: 84.90%
+  Testing feature 25 ➔ Accuracy: 83.70%
+  Testing feature 26 ➔ Accuracy: 86.20%
+  Testing feature 27 ➔ Accuracy: 84.30%
+  Testing feature 28 ➔ Accuracy: 86.70%
+  Testing feature 29 ➔ Accuracy: 85.10%
+  Testing feature 30 ➔ Accuracy: 87.30%
+  Testing feature 31 ➔ Accuracy: 84.80%
+  Testing feature 33 ➔ Accuracy: 84.80%
+  Testing feature 36 ➔ Accuracy: 84.50%
+  Testing feature 37 ➔ Accuracy: 84.80%
+  Testing feature 38 ➔ Accuracy: 86.30%
+  Testing feature 39 ➔ Accuracy: 84.80%
+  Testing feature 40 ➔ Accuracy: 82.80%
+  Accuracy dropped from 95.70% to 87.30%
+
+=== Level 7 ===
+  Testing feature 1 ➔ Accuracy: 82.10%
+  Testing feature 2 ➔ Accuracy: 83.00%
+  Testing feature 3 ➔ Accuracy: 82.10%
+  Testing feature 4 ➔ Accuracy: 81.80%
+  Testing feature 5 ➔ Accuracy: 82.50%
+  Testing feature 7 ➔ Accuracy: 83.20%
+  Testing feature 8 ➔ Accuracy: 80.60%
+  Testing feature 9 ➔ Accuracy: 80.00%
+  Testing feature 10 ➔ Accuracy: 81.90%
+  Testing feature 11 ➔ Accuracy: 83.50%
+  Testing feature 12 ➔ Accuracy: 82.60%
+  Testing feature 13 ➔ Accuracy: 81.80%
+  Testing feature 14 ➔ Accuracy: 81.50%
+  Testing feature 15 ➔ Accuracy: 80.40%
+  Testing feature 16 ➔ Accuracy: 82.00%
+  Testing feature 17 ➔ Accuracy: 83.70%
+  Testing feature 18 ➔ Accuracy: 81.80%
+  Testing feature 20 ➔ Accuracy: 81.30%
+  Testing feature 21 ➔ Accuracy: 82.50%
+  Testing feature 22 ➔ Accuracy: 81.20%
+  Testing feature 23 ➔ Accuracy: 83.90%
+  Testing feature 24 ➔ Accuracy: 81.00%
+  Testing feature 25 ➔ Accuracy: 80.30%
+  Testing feature 26 ➔ Accuracy: 82.20%
+  Testing feature 27 ➔ Accuracy: 82.10%
+  Testing feature 28 ➔ Accuracy: 82.50%
+  Testing feature 29 ➔ Accuracy: 83.10%
+  Testing feature 31 ➔ Accuracy: 82.50%
+  Testing feature 33 ➔ Accuracy: 81.70%
+  Testing feature 36 ➔ Accuracy: 81.80%
+  Testing feature 37 ➔ Accuracy: 81.20%
+  Testing feature 38 ➔ Accuracy: 82.60%
+  Testing feature 39 ➔ Accuracy: 83.00%
+  Testing feature 40 ➔ Accuracy: 81.90%
+  Accuracy dropped from 95.70% to 83.90%
+
+=== Level 8 ===
+  Testing feature 1 ➔ Accuracy: 81.10%
+  Testing feature 2 ➔ Accuracy: 80.10%
+  Testing feature 3 ➔ Accuracy: 78.50%
+  Testing feature 4 ➔ Accuracy: 78.90%
+  Testing feature 5 ➔ Accuracy: 80.80%
+  Testing feature 7 ➔ Accuracy: 78.90%
+  Testing feature 8 ➔ Accuracy: 80.50%
+  Testing feature 9 ➔ Accuracy: 79.90%
+  Testing feature 10 ➔ Accuracy: 81.40%
+  Testing feature 11 ➔ Accuracy: 79.10%
+  Testing feature 12 ➔ Accuracy: 80.70%
+  Testing feature 13 ➔ Accuracy: 80.00%
+  Testing feature 14 ➔ Accuracy: 79.90%
+  Testing feature 15 ➔ Accuracy: 79.40%
+  Testing feature 16 ➔ Accuracy: 80.40%
+  Testing feature 17 ➔ Accuracy: 80.70%
+  Testing feature 18 ➔ Accuracy: 79.00%
+  Testing feature 20 ➔ Accuracy: 78.40%
+  Testing feature 21 ➔ Accuracy: 80.20%
+  Testing feature 22 ➔ Accuracy: 78.30%
+  Testing feature 24 ➔ Accuracy: 80.20%
+  Testing feature 25 ➔ Accuracy: 80.60%
+  Testing feature 26 ➔ Accuracy: 80.40%
+  Testing feature 27 ➔ Accuracy: 79.80%
+  Testing feature 28 ➔ Accuracy: 80.60%
+  Testing feature 29 ➔ Accuracy: 79.70%
+  Testing feature 31 ➔ Accuracy: 81.10%
+  Testing feature 33 ➔ Accuracy: 78.80%
+  Testing feature 36 ➔ Accuracy: 79.50%
+  Testing feature 37 ➔ Accuracy: 81.30%
+  Testing feature 38 ➔ Accuracy: 78.50%
+  Testing feature 39 ➔ Accuracy: 80.50%
+  Testing feature 40 ➔ Accuracy: 79.80%
+  Accuracy dropped from 95.70% to 81.40%
+
+=== Level 9 ===
+  Testing feature 1 ➔ Accuracy: 80.60%
+  Testing feature 2 ➔ Accuracy: 77.70%
+  Testing feature 3 ➔ Accuracy: 77.00%
+  Testing feature 4 ➔ Accuracy: 79.20%
+  Testing feature 5 ➔ Accuracy: 79.20%
+  Testing feature 7 ➔ Accuracy: 79.30%
+  Testing feature 8 ➔ Accuracy: 79.40%
+  Testing feature 9 ➔ Accuracy: 77.90%
+  Testing feature 11 ➔ Accuracy: 78.40%
+  Testing feature 12 ➔ Accuracy: 79.10%
+  Testing feature 13 ➔ Accuracy: 78.40%
+  Testing feature 14 ➔ Accuracy: 78.60%
+  Testing feature 15 ➔ Accuracy: 79.10%
+  Testing feature 16 ➔ Accuracy: 78.20%
+  Testing feature 17 ➔ Accuracy: 79.50%
+  Testing feature 18 ➔ Accuracy: 76.80%
+  Testing feature 20 ➔ Accuracy: 76.40%
+  Testing feature 21 ➔ Accuracy: 78.80%
+  Testing feature 22 ➔ Accuracy: 77.40%
+  Testing feature 24 ➔ Accuracy: 80.60%
+  Testing feature 25 ➔ Accuracy: 78.70%
+  Testing feature 26 ➔ Accuracy: 77.80%
+  Testing feature 27 ➔ Accuracy: 79.30%
+  Testing feature 28 ➔ Accuracy: 78.10%
+  Testing feature 29 ➔ Accuracy: 77.80%
+  Testing feature 31 ➔ Accuracy: 78.80%
+  Testing feature 33 ➔ Accuracy: 78.20%
+  Testing feature 36 ➔ Accuracy: 78.70%
+  Testing feature 37 ➔ Accuracy: 79.20%
+  Testing feature 38 ➔ Accuracy: 80.00%
+  Testing feature 39 ➔ Accuracy: 77.10%
+  Testing feature 40 ➔ Accuracy: 76.90%
+  Accuracy dropped from 95.70% to 80.60%
+
+=== Level 10 ===
+  Testing feature 2 ➔ Accuracy: 80.00%
+  Testing feature 3 ➔ Accuracy: 77.30%
+  Testing feature 4 ➔ Accuracy: 78.70%
+  Testing feature 5 ➔ Accuracy: 80.00%
+  Testing feature 7 ➔ Accuracy: 78.30%
+  Testing feature 8 ➔ Accuracy: 78.90%
+  Testing feature 9 ➔ Accuracy: 77.40%
+  Testing feature 11 ➔ Accuracy: 78.00%
+  Testing feature 12 ➔ Accuracy: 76.80%
+  Testing feature 13 ➔ Accuracy: 77.60%
+  Testing feature 14 ➔ Accuracy: 77.90%
+  Testing feature 15 ➔ Accuracy: 77.40%
+  Testing feature 16 ➔ Accuracy: 77.40%
+  Testing feature 17 ➔ Accuracy: 77.20%
+  Testing feature 18 ➔ Accuracy: 77.70%
+  Testing feature 20 ➔ Accuracy: 77.90%
+  Testing feature 21 ➔ Accuracy: 77.00%
+  Testing feature 22 ➔ Accuracy: 79.60%
+  Testing feature 24 ➔ Accuracy: 79.10%
+  Testing feature 25 ➔ Accuracy: 77.50%
+  Testing feature 26 ➔ Accuracy: 79.20%
+  Testing feature 27 ➔ Accuracy: 80.10%
+  Testing feature 28 ➔ Accuracy: 78.00%
+  Testing feature 29 ➔ Accuracy: 76.60%
+  Testing feature 31 ➔ Accuracy: 77.40%
+  Testing feature 33 ➔ Accuracy: 78.00%
+  Testing feature 36 ➔ Accuracy: 78.80%
+  Testing feature 37 ➔ Accuracy: 79.50%
+  Testing feature 38 ➔ Accuracy: 77.90%
+  Testing feature 39 ➔ Accuracy: 78.40%
+  Testing feature 40 ➔ Accuracy: 77.40%
+  Accuracy dropped from 95.70% to 80.10%
+
+=== Level 11 ===
+  Testing feature 2 ➔ Accuracy: 80.20%
+  Testing feature 3 ➔ Accuracy: 77.10%
+  Testing feature 4 ➔ Accuracy: 77.10%
+  Testing feature 5 ➔ Accuracy: 78.40%
+  Testing feature 7 ➔ Accuracy: 78.10%
+  Testing feature 8 ➔ Accuracy: 78.10%
+  Testing feature 9 ➔ Accuracy: 77.80%
+  Testing feature 11 ➔ Accuracy: 77.00%
+  Testing feature 12 ➔ Accuracy: 78.00%
+  Testing feature 13 ➔ Accuracy: 77.90%
+  Testing feature 14 ➔ Accuracy: 76.30%
+  Testing feature 15 ➔ Accuracy: 77.50%
+  Testing feature 16 ➔ Accuracy: 77.10%
+  Testing feature 17 ➔ Accuracy: 77.20%
+  Testing feature 18 ➔ Accuracy: 76.40%
+  Testing feature 20 ➔ Accuracy: 77.00%
+  Testing feature 21 ➔ Accuracy: 76.10%
+  Testing feature 22 ➔ Accuracy: 77.70%
+  Testing feature 24 ➔ Accuracy: 76.10%
+  Testing feature 25 ➔ Accuracy: 78.10%
+  Testing feature 26 ➔ Accuracy: 75.90%
+  Testing feature 28 ➔ Accuracy: 76.80%
+  Testing feature 29 ➔ Accuracy: 75.50%
+  Testing feature 31 ➔ Accuracy: 78.50%
+  Testing feature 33 ➔ Accuracy: 75.80%
+  Testing feature 36 ➔ Accuracy: 76.70%
+  Testing feature 37 ➔ Accuracy: 79.80%
+  Testing feature 38 ➔ Accuracy: 77.20%
+  Testing feature 39 ➔ Accuracy: 75.60%
+  Testing feature 40 ➔ Accuracy: 76.10%
+  Accuracy dropped from 95.70% to 80.20%
+
+=== Level 12 ===
+  Testing feature 3 ➔ Accuracy: 77.80%
+  Testing feature 4 ➔ Accuracy: 77.20%
+  Testing feature 5 ➔ Accuracy: 77.20%
+  Testing feature 7 ➔ Accuracy: 77.30%
+  Testing feature 8 ➔ Accuracy: 78.50%
+  Testing feature 9 ➔ Accuracy: 77.50%
+  Testing feature 11 ➔ Accuracy: 77.70%
+  Testing feature 12 ➔ Accuracy: 76.70%
+  Testing feature 13 ➔ Accuracy: 76.40%
+  Testing feature 14 ➔ Accuracy: 76.80%
+  Testing feature 15 ➔ Accuracy: 75.50%
+  Testing feature 16 ➔ Accuracy: 77.40%
+  Testing feature 17 ➔ Accuracy: 76.50%
+  Testing feature 18 ➔ Accuracy: 76.30%
+  Testing feature 20 ➔ Accuracy: 77.40%
+  Testing feature 21 ➔ Accuracy: 77.30%
+  Testing feature 22 ➔ Accuracy: 75.90%
+  Testing feature 24 ➔ Accuracy: 76.50%
+  Testing feature 25 ➔ Accuracy: 76.80%
+  Testing feature 26 ➔ Accuracy: 76.70%
+  Testing feature 28 ➔ Accuracy: 76.10%
+  Testing feature 29 ➔ Accuracy: 76.60%
+  Testing feature 31 ➔ Accuracy: 78.30%
+  Testing feature 33 ➔ Accuracy: 77.60%
+  Testing feature 36 ➔ Accuracy: 79.40%
+  Testing feature 37 ➔ Accuracy: 78.00%
+  Testing feature 38 ➔ Accuracy: 76.10%
+  Testing feature 39 ➔ Accuracy: 75.70%
+  Testing feature 40 ➔ Accuracy: 76.40%
+  Accuracy dropped from 95.70% to 79.40%
+
+=== Level 13 ===
+  Testing feature 3 ➔ Accuracy: 76.90%
+  Testing feature 4 ➔ Accuracy: 75.50%
+  Testing feature 5 ➔ Accuracy: 76.30%
+  Testing feature 7 ➔ Accuracy: 76.20%
+  Testing feature 8 ➔ Accuracy: 76.10%
+  Testing feature 9 ➔ Accuracy: 75.40%
+  Testing feature 11 ➔ Accuracy: 75.80%
+  Testing feature 12 ➔ Accuracy: 76.50%
+  Testing feature 13 ➔ Accuracy: 76.90%
+  Testing feature 14 ➔ Accuracy: 78.30%
+  Testing feature 15 ➔ Accuracy: 74.70%
+  Testing feature 16 ➔ Accuracy: 76.90%
+  Testing feature 17 ➔ Accuracy: 74.80%
+  Testing feature 18 ➔ Accuracy: 76.90%
+  Testing feature 20 ➔ Accuracy: 75.80%
+  Testing feature 21 ➔ Accuracy: 77.00%
+  Testing feature 22 ➔ Accuracy: 75.20%
+  Testing feature 24 ➔ Accuracy: 75.80%
+  Testing feature 25 ➔ Accuracy: 76.70%
+  Testing feature 26 ➔ Accuracy: 75.60%
+  Testing feature 28 ➔ Accuracy: 76.40%
+  Testing feature 29 ➔ Accuracy: 75.10%
+  Testing feature 31 ➔ Accuracy: 77.80%
+  Testing feature 33 ➔ Accuracy: 76.20%
+  Testing feature 37 ➔ Accuracy: 76.60%
+  Testing feature 38 ➔ Accuracy: 75.10%
+  Testing feature 39 ➔ Accuracy: 74.70%
+  Testing feature 40 ➔ Accuracy: 74.60%
+  Accuracy dropped from 95.70% to 78.30%
+
+=== Level 14 ===
+  Testing feature 3 ➔ Accuracy: 76.70%
+  Testing feature 4 ➔ Accuracy: 76.40%
+  Testing feature 5 ➔ Accuracy: 75.80%
+  Testing feature 7 ➔ Accuracy: 76.70%
+  Testing feature 8 ➔ Accuracy: 75.90%
+  Testing feature 9 ➔ Accuracy: 76.90%
+  Testing feature 11 ➔ Accuracy: 76.50%
+  Testing feature 12 ➔ Accuracy: 74.90%
+  Testing feature 13 ➔ Accuracy: 77.10%
+  Testing feature 15 ➔ Accuracy: 74.20%
+  Testing feature 16 ➔ Accuracy: 76.20%
+  Testing feature 17 ➔ Accuracy: 74.30%
+  Testing feature 18 ➔ Accuracy: 74.90%
+  Testing feature 20 ➔ Accuracy: 74.90%
+  Testing feature 21 ➔ Accuracy: 74.70%
+  Testing feature 22 ➔ Accuracy: 74.60%
+  Testing feature 24 ➔ Accuracy: 75.70%
+  Testing feature 25 ➔ Accuracy: 76.50%
+  Testing feature 26 ➔ Accuracy: 75.70%
+  Testing feature 28 ➔ Accuracy: 76.00%
+  Testing feature 29 ➔ Accuracy: 76.20%
+  Testing feature 31 ➔ Accuracy: 76.80%
+  Testing feature 33 ➔ Accuracy: 76.30%
+  Testing feature 37 ➔ Accuracy: 76.60%
+  Testing feature 38 ➔ Accuracy: 74.50%
+  Testing feature 39 ➔ Accuracy: 74.50%
+  Testing feature 40 ➔ Accuracy: 75.10%
+  Accuracy dropped from 95.70% to 77.10%
+
+=== Level 15 ===
+  Testing feature 3 ➔ Accuracy: 74.60%
+  Testing feature 4 ➔ Accuracy: 75.10%
+  Testing feature 5 ➔ Accuracy: 75.60%
+  Testing feature 7 ➔ Accuracy: 74.70%
+  Testing feature 8 ➔ Accuracy: 73.90%
+  Testing feature 9 ➔ Accuracy: 75.40%
+  Testing feature 11 ➔ Accuracy: 74.60%
+  Testing feature 12 ➔ Accuracy: 74.70%
+  Testing feature 15 ➔ Accuracy: 74.90%
+  Testing feature 16 ➔ Accuracy: 75.60%
+  Testing feature 17 ➔ Accuracy: 75.30%
+  Testing feature 18 ➔ Accuracy: 73.60%
+  Testing feature 20 ➔ Accuracy: 73.30%
+  Testing feature 21 ➔ Accuracy: 75.10%
+  Testing feature 22 ➔ Accuracy: 74.40%
+  Testing feature 24 ➔ Accuracy: 73.90%
+  Testing feature 25 ➔ Accuracy: 73.10%
+  Testing feature 26 ➔ Accuracy: 73.80%
+  Testing feature 28 ➔ Accuracy: 74.60%
+  Testing feature 29 ➔ Accuracy: 75.30%
+  Testing feature 31 ➔ Accuracy: 77.10%
+  Testing feature 33 ➔ Accuracy: 74.80%
+  Testing feature 37 ➔ Accuracy: 75.20%
+  Testing feature 38 ➔ Accuracy: 74.60%
+  Testing feature 39 ➔ Accuracy: 72.40%
+  Testing feature 40 ➔ Accuracy: 73.40%
+  Accuracy dropped from 95.70% to 77.10%
+
+=== Level 16 ===
+  Testing feature 3 ➔ Accuracy: 74.80%
+  Testing feature 4 ➔ Accuracy: 75.70%
+  Testing feature 5 ➔ Accuracy: 76.40%
+  Testing feature 7 ➔ Accuracy: 76.00%
+  Testing feature 8 ➔ Accuracy: 75.50%
+  Testing feature 9 ➔ Accuracy: 75.30%
+  Testing feature 11 ➔ Accuracy: 77.00%
+  Testing feature 12 ➔ Accuracy: 74.00%
+  Testing feature 15 ➔ Accuracy: 74.90%
+  Testing feature 16 ➔ Accuracy: 76.90%
+  Testing feature 17 ➔ Accuracy: 75.90%
+  Testing feature 18 ➔ Accuracy: 73.80%
+  Testing feature 20 ➔ Accuracy: 75.80%
+  Testing feature 21 ➔ Accuracy: 75.40%
+  Testing feature 22 ➔ Accuracy: 74.40%
+  Testing feature 24 ➔ Accuracy: 75.00%
+  Testing feature 25 ➔ Accuracy: 75.50%
+  Testing feature 26 ➔ Accuracy: 75.40%
+  Testing feature 28 ➔ Accuracy: 74.00%
+  Testing feature 29 ➔ Accuracy: 75.10%
+  Testing feature 33 ➔ Accuracy: 75.20%
+  Testing feature 37 ➔ Accuracy: 77.60%
+  Testing feature 38 ➔ Accuracy: 72.90%
+  Testing feature 39 ➔ Accuracy: 74.20%
+  Testing feature 40 ➔ Accuracy: 75.30%
+  Accuracy dropped from 95.70% to 77.60%
+
+=== Level 17 ===
+  Testing feature 3 ➔ Accuracy: 76.40%
+  Testing feature 4 ➔ Accuracy: 75.60%
+  Testing feature 5 ➔ Accuracy: 76.80%
+  Testing feature 7 ➔ Accuracy: 75.70%
+  Testing feature 8 ➔ Accuracy: 73.80%
+  Testing feature 9 ➔ Accuracy: 76.00%
+  Testing feature 11 ➔ Accuracy: 75.20%
+  Testing feature 12 ➔ Accuracy: 75.00%
+  Testing feature 15 ➔ Accuracy: 74.30%
+  Testing feature 16 ➔ Accuracy: 75.90%
+  Testing feature 17 ➔ Accuracy: 73.70%
+  Testing feature 18 ➔ Accuracy: 73.60%
+  Testing feature 20 ➔ Accuracy: 74.30%
+  Testing feature 21 ➔ Accuracy: 75.80%
+  Testing feature 22 ➔ Accuracy: 74.80%
+  Testing feature 24 ➔ Accuracy: 76.00%
+  Testing feature 25 ➔ Accuracy: 75.40%
+  Testing feature 26 ➔ Accuracy: 75.70%
+  Testing feature 28 ➔ Accuracy: 74.70%
+  Testing feature 29 ➔ Accuracy: 76.10%
+  Testing feature 33 ➔ Accuracy: 74.70%
+  Testing feature 38 ➔ Accuracy: 73.60%
+  Testing feature 39 ➔ Accuracy: 73.70%
+  Testing feature 40 ➔ Accuracy: 73.10%
+  Accuracy dropped from 95.70% to 76.80%
+
+=== Level 18 ===
+  Testing feature 3 ➔ Accuracy: 76.50%
+  Testing feature 4 ➔ Accuracy: 75.30%
+  Testing feature 7 ➔ Accuracy: 74.80%
+  Testing feature 8 ➔ Accuracy: 74.10%
+  Testing feature 9 ➔ Accuracy: 75.10%
+  Testing feature 11 ➔ Accuracy: 74.30%
+  Testing feature 12 ➔ Accuracy: 74.30%
+  Testing feature 15 ➔ Accuracy: 72.30%
+  Testing feature 16 ➔ Accuracy: 75.30%
+  Testing feature 17 ➔ Accuracy: 73.50%
+  Testing feature 18 ➔ Accuracy: 73.60%
+  Testing feature 20 ➔ Accuracy: 73.80%
+  Testing feature 21 ➔ Accuracy: 74.80%
+  Testing feature 22 ➔ Accuracy: 73.40%
+  Testing feature 24 ➔ Accuracy: 74.60%
+  Testing feature 25 ➔ Accuracy: 74.30%
+  Testing feature 26 ➔ Accuracy: 75.60%
+  Testing feature 28 ➔ Accuracy: 74.30%
+  Testing feature 29 ➔ Accuracy: 74.90%
+  Testing feature 33 ➔ Accuracy: 74.80%
+  Testing feature 38 ➔ Accuracy: 74.30%
+  Testing feature 39 ➔ Accuracy: 73.50%
+  Testing feature 40 ➔ Accuracy: 73.70%
+  Accuracy dropped from 95.70% to 76.50%
+
+=== Level 19 ===
+  Testing feature 4 ➔ Accuracy: 75.10%
+  Testing feature 7 ➔ Accuracy: 75.00%
+  Testing feature 8 ➔ Accuracy: 75.80%
+  Testing feature 9 ➔ Accuracy: 75.00%
+  Testing feature 11 ➔ Accuracy: 74.60%
+  Testing feature 12 ➔ Accuracy: 75.00%
+  Testing feature 15 ➔ Accuracy: 72.70%
+  Testing feature 16 ➔ Accuracy: 75.50%
+  Testing feature 17 ➔ Accuracy: 73.80%
+  Testing feature 18 ➔ Accuracy: 73.90%
+  Testing feature 20 ➔ Accuracy: 74.50%
+  Testing feature 21 ➔ Accuracy: 74.20%
+  Testing feature 22 ➔ Accuracy: 74.50%
+  Testing feature 24 ➔ Accuracy: 75.80%
+  Testing feature 25 ➔ Accuracy: 74.80%
+  Testing feature 26 ➔ Accuracy: 76.90%
+  Testing feature 28 ➔ Accuracy: 74.10%
+  Testing feature 29 ➔ Accuracy: 74.80%
+  Testing feature 33 ➔ Accuracy: 74.10%
+  Testing feature 38 ➔ Accuracy: 73.00%
+  Testing feature 39 ➔ Accuracy: 73.70%
+  Testing feature 40 ➔ Accuracy: 74.10%
+  Accuracy dropped from 95.70% to 76.90%
+
+=== Level 20 ===
+  Testing feature 4 ➔ Accuracy: 75.30%
+  Testing feature 7 ➔ Accuracy: 73.70%
+  Testing feature 8 ➔ Accuracy: 74.50%
+  Testing feature 9 ➔ Accuracy: 74.40%
+  Testing feature 11 ➔ Accuracy: 74.40%
+  Testing feature 12 ➔ Accuracy: 73.80%
+  Testing feature 15 ➔ Accuracy: 73.50%
+  Testing feature 16 ➔ Accuracy: 73.20%
+  Testing feature 17 ➔ Accuracy: 73.80%
+  Testing feature 18 ➔ Accuracy: 73.20%
+  Testing feature 20 ➔ Accuracy: 74.00%
+  Testing feature 21 ➔ Accuracy: 74.40%
+  Testing feature 22 ➔ Accuracy: 73.20%
+  Testing feature 24 ➔ Accuracy: 74.90%
+  Testing feature 25 ➔ Accuracy: 72.70%
+  Testing feature 28 ➔ Accuracy: 72.50%
+  Testing feature 29 ➔ Accuracy: 75.40%
+  Testing feature 33 ➔ Accuracy: 74.40%
+  Testing feature 38 ➔ Accuracy: 72.80%
+  Testing feature 39 ➔ Accuracy: 75.40%
+  Testing feature 40 ➔ Accuracy: 72.90%
+  Accuracy dropped from 95.70% to 75.40%
+
+=== Level 21 ===
+  Testing feature 4 ➔ Accuracy: 76.10%
+  Testing feature 7 ➔ Accuracy: 74.70%
+  Testing feature 8 ➔ Accuracy: 73.40%
+  Testing feature 9 ➔ Accuracy: 74.70%
+  Testing feature 11 ➔ Accuracy: 75.30%
+  Testing feature 12 ➔ Accuracy: 74.10%
+  Testing feature 15 ➔ Accuracy: 73.80%
+  Testing feature 16 ➔ Accuracy: 74.70%
+  Testing feature 17 ➔ Accuracy: 73.40%
+  Testing feature 18 ➔ Accuracy: 72.20%
+  Testing feature 20 ➔ Accuracy: 75.30%
+  Testing feature 21 ➔ Accuracy: 75.30%
+  Testing feature 22 ➔ Accuracy: 73.10%
+  Testing feature 24 ➔ Accuracy: 74.60%
+  Testing feature 25 ➔ Accuracy: 72.50%
+  Testing feature 28 ➔ Accuracy: 72.70%
+  Testing feature 33 ➔ Accuracy: 74.10%
+  Testing feature 38 ➔ Accuracy: 73.50%
+  Testing feature 39 ➔ Accuracy: 74.30%
+  Testing feature 40 ➔ Accuracy: 71.90%
+  Accuracy dropped from 95.70% to 76.10%
+
+=== Level 22 ===
+  Testing feature 7 ➔ Accuracy: 73.60%
+  Testing feature 8 ➔ Accuracy: 72.90%
+  Testing feature 9 ➔ Accuracy: 73.90%
+  Testing feature 11 ➔ Accuracy: 75.10%
+  Testing feature 12 ➔ Accuracy: 74.50%
+  Testing feature 15 ➔ Accuracy: 72.50%
+  Testing feature 16 ➔ Accuracy: 76.10%
+  Testing feature 17 ➔ Accuracy: 72.10%
+  Testing feature 18 ➔ Accuracy: 72.00%
+  Testing feature 20 ➔ Accuracy: 75.70%
+  Testing feature 21 ➔ Accuracy: 72.80%
+  Testing feature 22 ➔ Accuracy: 73.00%
+  Testing feature 24 ➔ Accuracy: 74.80%
+  Testing feature 25 ➔ Accuracy: 73.50%
+  Testing feature 28 ➔ Accuracy: 72.90%
+  Testing feature 33 ➔ Accuracy: 73.20%
+  Testing feature 38 ➔ Accuracy: 74.00%
+  Testing feature 39 ➔ Accuracy: 74.20%
+  Testing feature 40 ➔ Accuracy: 73.40%
+  Accuracy dropped from 95.70% to 76.10%
+
+=== Level 23 ===
+  Testing feature 7 ➔ Accuracy: 73.90%
+  Testing feature 8 ➔ Accuracy: 72.90%
+  Testing feature 9 ➔ Accuracy: 74.10%
+  Testing feature 11 ➔ Accuracy: 73.90%
+  Testing feature 12 ➔ Accuracy: 74.30%
+  Testing feature 15 ➔ Accuracy: 72.80%
+  Testing feature 17 ➔ Accuracy: 72.70%
+  Testing feature 18 ➔ Accuracy: 72.50%
+  Testing feature 20 ➔ Accuracy: 76.10%
+  Testing feature 21 ➔ Accuracy: 72.90%
+  Testing feature 22 ➔ Accuracy: 73.90%
+  Testing feature 24 ➔ Accuracy: 74.30%
+  Testing feature 25 ➔ Accuracy: 73.00%
+  Testing feature 28 ➔ Accuracy: 74.10%
+  Testing feature 33 ➔ Accuracy: 73.60%
+  Testing feature 38 ➔ Accuracy: 73.90%
+  Testing feature 39 ➔ Accuracy: 75.10%
+  Testing feature 40 ➔ Accuracy: 73.40%
+  Accuracy dropped from 95.70% to 76.10%
+
+=== Level 24 ===
+  Testing feature 7 ➔ Accuracy: 75.00%
+  Testing feature 8 ➔ Accuracy: 74.60%
+  Testing feature 9 ➔ Accuracy: 73.70%
+  Testing feature 11 ➔ Accuracy: 74.90%
+  Testing feature 12 ➔ Accuracy: 74.80%
+  Testing feature 15 ➔ Accuracy: 74.80%
+  Testing feature 17 ➔ Accuracy: 73.50%
+  Testing feature 18 ➔ Accuracy: 72.90%
+  Testing feature 21 ➔ Accuracy: 74.20%
+  Testing feature 22 ➔ Accuracy: 73.70%
+  Testing feature 24 ➔ Accuracy: 74.40%
+  Testing feature 25 ➔ Accuracy: 73.00%
+  Testing feature 28 ➔ Accuracy: 73.90%
+  Testing feature 33 ➔ Accuracy: 72.70%
+  Testing feature 38 ➔ Accuracy: 75.90%
+  Testing feature 39 ➔ Accuracy: 76.10%
+  Testing feature 40 ➔ Accuracy: 74.60%
+  Accuracy dropped from 95.70% to 76.10%
+
+=== Level 25 ===
+  Testing feature 7 ➔ Accuracy: 73.90%
+  Testing feature 8 ➔ Accuracy: 76.50%
+  Testing feature 9 ➔ Accuracy: 73.90%
+  Testing feature 11 ➔ Accuracy: 74.50%
+  Testing feature 12 ➔ Accuracy: 76.10%
+  Testing feature 15 ➔ Accuracy: 74.40%
+  Testing feature 17 ➔ Accuracy: 72.90%
+  Testing feature 18 ➔ Accuracy: 72.90%
+  Testing feature 21 ➔ Accuracy: 73.20%
+  Testing feature 22 ➔ Accuracy: 74.40%
+  Testing feature 24 ➔ Accuracy: 74.50%
+  Testing feature 25 ➔ Accuracy: 73.90%
+  Testing feature 28 ➔ Accuracy: 74.00%
+  Testing feature 33 ➔ Accuracy: 73.50%
+  Testing feature 38 ➔ Accuracy: 76.20%
+  Testing feature 40 ➔ Accuracy: 74.50%
+  Accuracy dropped from 95.70% to 76.50%
+
+=== Level 26 ===
+  Testing feature 7 ➔ Accuracy: 74.00%
+  Testing feature 9 ➔ Accuracy: 73.80%
+  Testing feature 11 ➔ Accuracy: 73.20%
+  Testing feature 12 ➔ Accuracy: 74.20%
+  Testing feature 15 ➔ Accuracy: 74.00%
+  Testing feature 17 ➔ Accuracy: 73.20%
+  Testing feature 18 ➔ Accuracy: 72.40%
+  Testing feature 21 ➔ Accuracy: 72.90%
+  Testing feature 22 ➔ Accuracy: 73.10%
+  Testing feature 24 ➔ Accuracy: 74.00%
+  Testing feature 25 ➔ Accuracy: 73.80%
+  Testing feature 28 ➔ Accuracy: 73.60%
+  Testing feature 33 ➔ Accuracy: 73.30%
+  Testing feature 38 ➔ Accuracy: 74.70%
+  Testing feature 40 ➔ Accuracy: 73.70%
+  Accuracy dropped from 95.70% to 74.70%
+
+=== Level 27 ===
+  Testing feature 7 ➔ Accuracy: 73.60%
+  Testing feature 9 ➔ Accuracy: 72.80%
+  Testing feature 11 ➔ Accuracy: 72.00%
+  Testing feature 12 ➔ Accuracy: 73.30%
+  Testing feature 15 ➔ Accuracy: 72.40%
+  Testing feature 17 ➔ Accuracy: 72.70%
+  Testing feature 18 ➔ Accuracy: 71.80%
+  Testing feature 21 ➔ Accuracy: 72.70%
+  Testing feature 22 ➔ Accuracy: 74.00%
+  Testing feature 24 ➔ Accuracy: 73.00%
+  Testing feature 25 ➔ Accuracy: 73.70%
+  Testing feature 28 ➔ Accuracy: 73.50%
+  Testing feature 33 ➔ Accuracy: 72.60%
+  Testing feature 40 ➔ Accuracy: 73.00%
+  Accuracy dropped from 95.70% to 74.00%
+
+=== Level 28 ===
+  Testing feature 7 ➔ Accuracy: 72.60%
+  Testing feature 9 ➔ Accuracy: 72.90%
+  Testing feature 11 ➔ Accuracy: 71.20%
+  Testing feature 12 ➔ Accuracy: 72.70%
+  Testing feature 15 ➔ Accuracy: 72.10%
+  Testing feature 17 ➔ Accuracy: 72.40%
+  Testing feature 18 ➔ Accuracy: 71.00%
+  Testing feature 21 ➔ Accuracy: 71.80%
+  Testing feature 24 ➔ Accuracy: 71.80%
+  Testing feature 25 ➔ Accuracy: 72.50%
+  Testing feature 28 ➔ Accuracy: 72.20%
+  Testing feature 33 ➔ Accuracy: 71.70%
+  Testing feature 40 ➔ Accuracy: 72.90%
+  Accuracy dropped from 95.70% to 72.90%
+
+=== Level 29 ===
+  Testing feature 7 ➔ Accuracy: 72.70%
+  Testing feature 11 ➔ Accuracy: 70.70%
+  Testing feature 12 ➔ Accuracy: 72.10%
+  Testing feature 15 ➔ Accuracy: 71.80%
+  Testing feature 17 ➔ Accuracy: 71.50%
+  Testing feature 18 ➔ Accuracy: 70.40%
+  Testing feature 21 ➔ Accuracy: 71.10%
+  Testing feature 24 ➔ Accuracy: 70.90%
+  Testing feature 25 ➔ Accuracy: 71.40%
+  Testing feature 28 ➔ Accuracy: 70.80%
+  Testing feature 33 ➔ Accuracy: 71.40%
+  Testing feature 40 ➔ Accuracy: 73.50%
+  Accuracy dropped from 95.70% to 73.50%
+
+=== Level 30 ===
+  Testing feature 7 ➔ Accuracy: 73.10%
+  Testing feature 11 ➔ Accuracy: 71.80%
+  Testing feature 12 ➔ Accuracy: 72.20%
+  Testing feature 15 ➔ Accuracy: 71.40%
+  Testing feature 17 ➔ Accuracy: 72.10%
+  Testing feature 18 ➔ Accuracy: 71.30%
+  Testing feature 21 ➔ Accuracy: 71.10%
+  Testing feature 24 ➔ Accuracy: 72.70%
+  Testing feature 25 ➔ Accuracy: 72.50%
+  Testing feature 28 ➔ Accuracy: 72.00%
+  Testing feature 33 ➔ Accuracy: 73.50%
+  Accuracy dropped from 95.70% to 73.50%
+
+=== Level 31 ===
+  Testing feature 7 ➔ Accuracy: 72.20%
+  Testing feature 11 ➔ Accuracy: 71.50%
+  Testing feature 12 ➔ Accuracy: 72.40%
+  Testing feature 15 ➔ Accuracy: 71.30%
+  Testing feature 17 ➔ Accuracy: 71.80%
+  Testing feature 18 ➔ Accuracy: 70.10%
+  Testing feature 21 ➔ Accuracy: 71.10%
+  Testing feature 24 ➔ Accuracy: 71.70%
+  Testing feature 25 ➔ Accuracy: 71.10%
+  Testing feature 28 ➔ Accuracy: 71.80%
+  Accuracy dropped from 95.70% to 72.40%
+
+=== Level 32 ===
+  Testing feature 7 ➔ Accuracy: 71.80%
+  Testing feature 11 ➔ Accuracy: 71.30%
+  Testing feature 15 ➔ Accuracy: 70.00%
+  Testing feature 17 ➔ Accuracy: 72.00%
+  Testing feature 18 ➔ Accuracy: 70.80%
+  Testing feature 21 ➔ Accuracy: 70.50%
+  Testing feature 24 ➔ Accuracy: 71.60%
+  Testing feature 25 ➔ Accuracy: 71.60%
+  Testing feature 28 ➔ Accuracy: 71.60%
+  Accuracy dropped from 95.70% to 72.00%
+
+=== Level 33 ===
+  Testing feature 7 ➔ Accuracy: 72.40%
+  Testing feature 11 ➔ Accuracy: 69.90%
+  Testing feature 15 ➔ Accuracy: 70.40%
+  Testing feature 18 ➔ Accuracy: 71.00%
+  Testing feature 21 ➔ Accuracy: 70.60%
+  Testing feature 24 ➔ Accuracy: 69.70%
+  Testing feature 25 ➔ Accuracy: 69.80%
+  Testing feature 28 ➔ Accuracy: 71.60%
+  Accuracy dropped from 95.70% to 72.40%
+
+=== Level 34 ===
+  Testing feature 11 ➔ Accuracy: 70.70%
+  Testing feature 15 ➔ Accuracy: 69.90%
+  Testing feature 18 ➔ Accuracy: 70.40%
+  Testing feature 21 ➔ Accuracy: 70.40%
+  Testing feature 24 ➔ Accuracy: 70.50%
+  Testing feature 25 ➔ Accuracy: 69.90%
+  Testing feature 28 ➔ Accuracy: 71.20%
+  Accuracy dropped from 95.70% to 71.20%
+
+=== Level 35 ===
+  Testing feature 11 ➔ Accuracy: 71.00%
+  Testing feature 15 ➔ Accuracy: 70.50%
+  Testing feature 18 ➔ Accuracy: 71.80%
+  Testing feature 21 ➔ Accuracy: 70.00%
+  Testing feature 24 ➔ Accuracy: 70.90%
+  Testing feature 25 ➔ Accuracy: 70.20%
+  Accuracy dropped from 95.70% to 71.80%
+
+=== Level 36 ===
+  Testing feature 11 ➔ Accuracy: 71.30%
+  Testing feature 15 ➔ Accuracy: 70.40%
+  Testing feature 21 ➔ Accuracy: 69.20%
+  Testing feature 24 ➔ Accuracy: 71.30%
+  Testing feature 25 ➔ Accuracy: 71.50%
+  Accuracy dropped from 95.70% to 71.50%
+
+=== Level 37 ===
+  Testing feature 11 ➔ Accuracy: 71.90%
+  Testing feature 15 ➔ Accuracy: 71.50%
+  Testing feature 21 ➔ Accuracy: 69.10%
+  Testing feature 24 ➔ Accuracy: 70.90%
+  Accuracy dropped from 95.70% to 71.90%
+
+=== Level 38 ===
+  Testing feature 15 ➔ Accuracy: 71.30%
+  Testing feature 21 ➔ Accuracy: 69.40%
+  Testing feature 24 ➔ Accuracy: 70.10%
+  Accuracy dropped from 95.70% to 71.30%
+
+=== Level 39 ===
+  Testing feature 21 ➔ Accuracy: 69.80%
+  Testing feature 24 ➔ Accuracy: 69.50%
+  Accuracy dropped from 95.70% to 69.80%
+
+=== Level 40 ===
+  Testing feature 24 ➔ Accuracy: 68.50%
+  Accuracy dropped from 95.70% to 68.50%
+
+
+=== Final Result(forward full) ===
+Optimal feature subset: [19, 35, 34, 6, 32, 30, 23, 10, 1, 27, 2, 36, 14, 13, 31, 37, 5, 3, 26, 29, 4, 16, 20, 39, 8, 38, 22, 9, 40, 33, 12, 17, 7, 28, 18, 25, 11, 15, 21, 24]
+Maximum accuracy achieved: 95.7%
+
+Starting Backward Elimination (Full Search)
+Initial accuracy with all features: 68.5%
+  Testing remove feature 1 ➔ Accuracy: 69.1%
+  Testing remove feature 2 ➔ Accuracy: 69.7%
+  Testing remove feature 3 ➔ Accuracy: 67.8%
+  Testing remove feature 4 ➔ Accuracy: 67.2%
+  Testing remove feature 5 ➔ Accuracy: 67.7%
+  Testing remove feature 6 ➔ Accuracy: 67.7%
+  Testing remove feature 7 ➔ Accuracy: 68.6%
+  Testing remove feature 8 ➔ Accuracy: 67.8%
+  Testing remove feature 9 ➔ Accuracy: 69.2%
+  Testing remove feature 10 ➔ Accuracy: 68.9%
+  Testing remove feature 11 ➔ Accuracy: 68.8%
+  Testing remove feature 12 ➔ Accuracy: 68.8%
+  Testing remove feature 13 ➔ Accuracy: 68.1%
+  Testing remove feature 14 ➔ Accuracy: 69.6%
+  Testing remove feature 15 ➔ Accuracy: 68.6%
+  Testing remove feature 16 ➔ Accuracy: 68.6%
+  Testing remove feature 17 ➔ Accuracy: 68.5%
+  Testing remove feature 18 ➔ Accuracy: 68.5%
+  Testing remove feature 19 ➔ Accuracy: 69.4%
+  Testing remove feature 20 ➔ Accuracy: 67.0%
+  Testing remove feature 21 ➔ Accuracy: 69.5%
+  Testing remove feature 22 ➔ Accuracy: 69.8%
+  Testing remove feature 23 ➔ Accuracy: 67.7%
+  Testing remove feature 24 ➔ Accuracy: 69.8%
+  Testing remove feature 25 ➔ Accuracy: 68.7%
+  Testing remove feature 26 ➔ Accuracy: 69.9%
+  Testing remove feature 27 ➔ Accuracy: 68.8%
+  Testing remove feature 28 ➔ Accuracy: 67.4%
+  Testing remove feature 29 ➔ Accuracy: 67.3%
+  Testing remove feature 30 ➔ Accuracy: 70.0%
+  Testing remove feature 31 ➔ Accuracy: 68.7%
+  Testing remove feature 32 ➔ Accuracy: 69.3%
+  Testing remove feature 33 ➔ Accuracy: 69.0%
+  Testing remove feature 34 ➔ Accuracy: 68.2%
+  Testing remove feature 35 ➔ Accuracy: 69.3%
+  Testing remove feature 36 ➔ Accuracy: 70.0%
+  Testing remove feature 37 ➔ Accuracy: 68.5%
+  Testing remove feature 38 ➔ Accuracy: 68.3%
+  Testing remove feature 39 ➔ Accuracy: 68.8%
+  Testing remove feature 40 ➔ Accuracy: 68.6%
+
+ Step 1: Removed feature 30
+   Current features: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40] ➔ Accuracy: 70.0%
+  Testing remove feature 1 ➔ Accuracy: 68.9%
+  Testing remove feature 2 ➔ Accuracy: 70.1%
+  Testing remove feature 3 ➔ Accuracy: 70.0%
+  Testing remove feature 4 ➔ Accuracy: 68.2%
+  Testing remove feature 5 ➔ Accuracy: 69.4%
+  Testing remove feature 6 ➔ Accuracy: 69.4%
+  Testing remove feature 7 ➔ Accuracy: 70.0%
+  Testing remove feature 8 ➔ Accuracy: 69.0%
+  Testing remove feature 9 ➔ Accuracy: 69.4%
+  Testing remove feature 10 ➔ Accuracy: 69.9%
+  Testing remove feature 11 ➔ Accuracy: 69.5%
+  Testing remove feature 12 ➔ Accuracy: 70.4%
+  Testing remove feature 13 ➔ Accuracy: 68.8%
+  Testing remove feature 14 ➔ Accuracy: 70.0%
+  Testing remove feature 15 ➔ Accuracy: 70.3%
+  Testing remove feature 16 ➔ Accuracy: 70.1%
+  Testing remove feature 17 ➔ Accuracy: 69.7%
+  Testing remove feature 18 ➔ Accuracy: 69.8%
+  Testing remove feature 19 ➔ Accuracy: 69.2%
+  Testing remove feature 20 ➔ Accuracy: 68.9%
+  Testing remove feature 21 ➔ Accuracy: 70.4%
+  Testing remove feature 22 ➔ Accuracy: 71.2%
+  Testing remove feature 23 ➔ Accuracy: 68.6%
+  Testing remove feature 24 ➔ Accuracy: 70.1%
+  Testing remove feature 25 ➔ Accuracy: 70.2%
+  Testing remove feature 26 ➔ Accuracy: 71.1%
+  Testing remove feature 27 ➔ Accuracy: 68.9%
+  Testing remove feature 28 ➔ Accuracy: 68.2%
+  Testing remove feature 29 ➔ Accuracy: 68.0%
+  Testing remove feature 31 ➔ Accuracy: 70.2%
+  Testing remove feature 32 ➔ Accuracy: 70.0%
+  Testing remove feature 33 ➔ Accuracy: 69.1%
+  Testing remove feature 34 ➔ Accuracy: 69.2%
+  Testing remove feature 35 ➔ Accuracy: 69.5%
+  Testing remove feature 36 ➔ Accuracy: 70.6%
+  Testing remove feature 37 ➔ Accuracy: 68.5%
+  Testing remove feature 38 ➔ Accuracy: 70.5%
+  Testing remove feature 39 ➔ Accuracy: 69.4%
+  Testing remove feature 40 ➔ Accuracy: 70.2%
+
+ Step 2: Removed feature 22
+   Current features: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40] ➔ Accuracy: 71.2%
+  Testing remove feature 1 ➔ Accuracy: 71.1%
+  Testing remove feature 2 ➔ Accuracy: 70.6%
+  Testing remove feature 3 ➔ Accuracy: 71.1%
+  Testing remove feature 4 ➔ Accuracy: 69.7%
+  Testing remove feature 5 ➔ Accuracy: 70.3%
+  Testing remove feature 6 ➔ Accuracy: 69.8%
+  Testing remove feature 7 ➔ Accuracy: 71.1%
+  Testing remove feature 8 ➔ Accuracy: 69.4%
+  Testing remove feature 9 ➔ Accuracy: 70.1%
+  Testing remove feature 10 ➔ Accuracy: 70.7%
+  Testing remove feature 11 ➔ Accuracy: 70.0%
+  Testing remove feature 12 ➔ Accuracy: 70.4%
+  Testing remove feature 13 ➔ Accuracy: 70.5%
+  Testing remove feature 14 ➔ Accuracy: 69.5%
+  Testing remove feature 15 ➔ Accuracy: 70.5%
+  Testing remove feature 16 ➔ Accuracy: 70.4%
+  Testing remove feature 17 ➔ Accuracy: 70.1%
+  Testing remove feature 18 ➔ Accuracy: 70.3%
+  Testing remove feature 19 ➔ Accuracy: 70.4%
+  Testing remove feature 20 ➔ Accuracy: 69.5%
+  Testing remove feature 21 ➔ Accuracy: 69.3%
+  Testing remove feature 23 ➔ Accuracy: 69.6%
+  Testing remove feature 24 ➔ Accuracy: 71.3%
+  Testing remove feature 25 ➔ Accuracy: 70.1%
+  Testing remove feature 26 ➔ Accuracy: 70.8%
+  Testing remove feature 27 ➔ Accuracy: 69.4%
+  Testing remove feature 28 ➔ Accuracy: 68.3%
+  Testing remove feature 29 ➔ Accuracy: 69.1%
+  Testing remove feature 31 ➔ Accuracy: 71.5%
+  Testing remove feature 32 ➔ Accuracy: 70.0%
+  Testing remove feature 33 ➔ Accuracy: 69.8%
+  Testing remove feature 34 ➔ Accuracy: 70.5%
+  Testing remove feature 35 ➔ Accuracy: 69.8%
+  Testing remove feature 36 ➔ Accuracy: 69.5%
+  Testing remove feature 37 ➔ Accuracy: 70.3%
+  Testing remove feature 38 ➔ Accuracy: 71.0%
+  Testing remove feature 39 ➔ Accuracy: 70.5%
+  Testing remove feature 40 ➔ Accuracy: 69.4%
+
+ Step 3: Removed feature 31
+   Current features: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 32, 33, 34, 35, 36, 37, 38, 39, 40] ➔ Accuracy: 71.5%
+  Testing remove feature 1 ➔ Accuracy: 70.4%
+  Testing remove feature 2 ➔ Accuracy: 72.0%
+  Testing remove feature 3 ➔ Accuracy: 70.0%
+  Testing remove feature 4 ➔ Accuracy: 70.1%
+  Testing remove feature 5 ➔ Accuracy: 70.2%
+  Testing remove feature 6 ➔ Accuracy: 70.5%
+  Testing remove feature 7 ➔ Accuracy: 71.8%
+  Testing remove feature 8 ➔ Accuracy: 70.4%
+  Testing remove feature 9 ➔ Accuracy: 69.4%
+  Testing remove feature 10 ➔ Accuracy: 69.6%
+  Testing remove feature 11 ➔ Accuracy: 71.4%
+  Testing remove feature 12 ➔ Accuracy: 70.3%
+  Testing remove feature 13 ➔ Accuracy: 70.7%
+  Testing remove feature 14 ➔ Accuracy: 70.8%
+  Testing remove feature 15 ➔ Accuracy: 71.4%
+  Testing remove feature 16 ➔ Accuracy: 69.8%
+  Testing remove feature 17 ➔ Accuracy: 69.7%
+  Testing remove feature 18 ➔ Accuracy: 71.8%
+  Testing remove feature 19 ➔ Accuracy: 71.0%
+  Testing remove feature 20 ➔ Accuracy: 70.7%
+  Testing remove feature 21 ➔ Accuracy: 70.9%
+  Testing remove feature 23 ➔ Accuracy: 70.5%
+  Testing remove feature 24 ➔ Accuracy: 71.5%
+  Testing remove feature 25 ➔ Accuracy: 70.1%
+  Testing remove feature 26 ➔ Accuracy: 72.4%
+  Testing remove feature 27 ➔ Accuracy: 69.9%
+  Testing remove feature 28 ➔ Accuracy: 69.5%
+  Testing remove feature 29 ➔ Accuracy: 69.8%
+  Testing remove feature 32 ➔ Accuracy: 70.4%
+  Testing remove feature 33 ➔ Accuracy: 70.9%
+  Testing remove feature 34 ➔ Accuracy: 71.5%
+  Testing remove feature 35 ➔ Accuracy: 70.9%
+  Testing remove feature 36 ➔ Accuracy: 69.5%
+  Testing remove feature 37 ➔ Accuracy: 71.2%
+  Testing remove feature 38 ➔ Accuracy: 70.8%
+  Testing remove feature 39 ➔ Accuracy: 70.7%
+  Testing remove feature 40 ➔ Accuracy: 70.0%
+
+ Step 4: Removed feature 26
+   Current features: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 32, 33, 34, 35, 36, 37, 38, 39, 40] ➔ Accuracy: 72.4%
+  Testing remove feature 1 ➔ Accuracy: 71.4%
+  Testing remove feature 2 ➔ Accuracy: 72.4%
+  Testing remove feature 3 ➔ Accuracy: 71.8%
+  Testing remove feature 4 ➔ Accuracy: 71.3%
+  Testing remove feature 5 ➔ Accuracy: 71.1%
+  Testing remove feature 6 ➔ Accuracy: 71.1%
+  Testing remove feature 7 ➔ Accuracy: 71.1%
+  Testing remove feature 8 ➔ Accuracy: 70.1%
+  Testing remove feature 9 ➔ Accuracy: 69.2%
+  Testing remove feature 10 ➔ Accuracy: 71.9%
+  Testing remove feature 11 ➔ Accuracy: 70.5%
+  Testing remove feature 12 ➔ Accuracy: 71.2%
+  Testing remove feature 13 ➔ Accuracy: 71.4%
+  Testing remove feature 14 ➔ Accuracy: 70.9%
+  Testing remove feature 15 ➔ Accuracy: 72.1%
+  Testing remove feature 16 ➔ Accuracy: 70.5%
+  Testing remove feature 17 ➔ Accuracy: 71.8%
+  Testing remove feature 18 ➔ Accuracy: 71.8%
+  Testing remove feature 19 ➔ Accuracy: 71.3%
+  Testing remove feature 20 ➔ Accuracy: 71.9%
+  Testing remove feature 21 ➔ Accuracy: 72.0%
+  Testing remove feature 23 ➔ Accuracy: 72.6%
+  Testing remove feature 24 ➔ Accuracy: 71.5%
+  Testing remove feature 25 ➔ Accuracy: 70.0%
+  Testing remove feature 27 ➔ Accuracy: 71.0%
+  Testing remove feature 28 ➔ Accuracy: 70.6%
+  Testing remove feature 29 ➔ Accuracy: 69.7%
+  Testing remove feature 32 ➔ Accuracy: 72.8%
+  Testing remove feature 33 ➔ Accuracy: 72.2%
+  Testing remove feature 34 ➔ Accuracy: 71.6%
+  Testing remove feature 35 ➔ Accuracy: 72.5%
+  Testing remove feature 36 ➔ Accuracy: 70.8%
+  Testing remove feature 37 ➔ Accuracy: 71.5%
+  Testing remove feature 38 ➔ Accuracy: 71.6%
+  Testing remove feature 39 ➔ Accuracy: 72.0%
+  Testing remove feature 40 ➔ Accuracy: 70.9%
+
+ Step 5: Removed feature 32
+   Current features: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40] ➔ Accuracy: 72.8%
+  Testing remove feature 1 ➔ Accuracy: 71.5%
+  Testing remove feature 2 ➔ Accuracy: 72.7%
+  Testing remove feature 3 ➔ Accuracy: 71.5%
+  Testing remove feature 4 ➔ Accuracy: 71.5%
+  Testing remove feature 5 ➔ Accuracy: 71.8%
+  Testing remove feature 6 ➔ Accuracy: 71.0%
+  Testing remove feature 7 ➔ Accuracy: 71.6%
+  Testing remove feature 8 ➔ Accuracy: 70.6%
+  Testing remove feature 9 ➔ Accuracy: 71.4%
+  Testing remove feature 10 ➔ Accuracy: 72.9%
+  Testing remove feature 11 ➔ Accuracy: 71.5%
+  Testing remove feature 12 ➔ Accuracy: 70.9%
+  Testing remove feature 13 ➔ Accuracy: 71.3%
+  Testing remove feature 14 ➔ Accuracy: 71.4%
+  Testing remove feature 15 ➔ Accuracy: 71.7%
+  Testing remove feature 16 ➔ Accuracy: 70.3%
+  Testing remove feature 17 ➔ Accuracy: 71.0%
+  Testing remove feature 18 ➔ Accuracy: 72.2%
+  Testing remove feature 19 ➔ Accuracy: 72.1%
+  Testing remove feature 20 ➔ Accuracy: 71.8%
+  Testing remove feature 21 ➔ Accuracy: 71.7%
+  Testing remove feature 23 ➔ Accuracy: 72.5%
+  Testing remove feature 24 ➔ Accuracy: 71.3%
+  Testing remove feature 25 ➔ Accuracy: 71.8%
+  Testing remove feature 27 ➔ Accuracy: 70.5%
+  Testing remove feature 28 ➔ Accuracy: 70.4%
+  Testing remove feature 29 ➔ Accuracy: 69.8%
+  Testing remove feature 33 ➔ Accuracy: 70.9%
+  Testing remove feature 34 ➔ Accuracy: 70.4%
+  Testing remove feature 35 ➔ Accuracy: 72.3%
+  Testing remove feature 36 ➔ Accuracy: 71.4%
+  Testing remove feature 37 ➔ Accuracy: 72.0%
+  Testing remove feature 38 ➔ Accuracy: 71.4%
+  Testing remove feature 39 ➔ Accuracy: 71.8%
+  Testing remove feature 40 ➔ Accuracy: 71.7%
+
+ Step 6: Removed feature 10
+   Current features: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40] ➔ Accuracy: 72.9%
+  Testing remove feature 1 ➔ Accuracy: 71.5%
+  Testing remove feature 2 ➔ Accuracy: 72.7%
+  Testing remove feature 3 ➔ Accuracy: 72.6%
+  Testing remove feature 4 ➔ Accuracy: 71.4%
+  Testing remove feature 5 ➔ Accuracy: 72.1%
+  Testing remove feature 6 ➔ Accuracy: 72.4%
+  Testing remove feature 7 ➔ Accuracy: 70.1%
+  Testing remove feature 8 ➔ Accuracy: 71.8%
+  Testing remove feature 9 ➔ Accuracy: 70.5%
+  Testing remove feature 11 ➔ Accuracy: 72.0%
+  Testing remove feature 12 ➔ Accuracy: 70.4%
+  Testing remove feature 13 ➔ Accuracy: 71.4%
+  Testing remove feature 14 ➔ Accuracy: 72.3%
+  Testing remove feature 15 ➔ Accuracy: 73.6%
+  Testing remove feature 16 ➔ Accuracy: 71.5%
+  Testing remove feature 17 ➔ Accuracy: 71.9%
+  Testing remove feature 18 ➔ Accuracy: 72.2%
+  Testing remove feature 19 ➔ Accuracy: 72.1%
+  Testing remove feature 20 ➔ Accuracy: 71.4%
+  Testing remove feature 21 ➔ Accuracy: 70.4%
+  Testing remove feature 23 ➔ Accuracy: 71.8%
+  Testing remove feature 24 ➔ Accuracy: 72.9%
+  Testing remove feature 25 ➔ Accuracy: 70.9%
+  Testing remove feature 27 ➔ Accuracy: 72.1%
+  Testing remove feature 28 ➔ Accuracy: 71.4%
+  Testing remove feature 29 ➔ Accuracy: 70.8%
+  Testing remove feature 33 ➔ Accuracy: 70.9%
+  Testing remove feature 34 ➔ Accuracy: 71.0%
+  Testing remove feature 35 ➔ Accuracy: 72.7%
+  Testing remove feature 36 ➔ Accuracy: 71.8%
+  Testing remove feature 37 ➔ Accuracy: 71.5%
+  Testing remove feature 38 ➔ Accuracy: 71.9%
+  Testing remove feature 39 ➔ Accuracy: 72.2%
+  Testing remove feature 40 ➔ Accuracy: 70.9%
+
+ Step 7: Removed feature 15
+   Current features: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40] ➔ Accuracy: 73.6%
+  Testing remove feature 1 ➔ Accuracy: 71.0%
+  Testing remove feature 2 ➔ Accuracy: 73.4%
+  Testing remove feature 3 ➔ Accuracy: 73.5%
+  Testing remove feature 4 ➔ Accuracy: 72.6%
+  Testing remove feature 5 ➔ Accuracy: 72.2%
+  Testing remove feature 6 ➔ Accuracy: 71.7%
+  Testing remove feature 7 ➔ Accuracy: 72.4%
+  Testing remove feature 8 ➔ Accuracy: 71.9%
+  Testing remove feature 9 ➔ Accuracy: 71.2%
+  Testing remove feature 11 ➔ Accuracy: 71.9%
+  Testing remove feature 12 ➔ Accuracy: 71.6%
+  Testing remove feature 13 ➔ Accuracy: 72.3%
+  Testing remove feature 14 ➔ Accuracy: 72.9%
+  Testing remove feature 16 ➔ Accuracy: 70.8%
+  Testing remove feature 17 ➔ Accuracy: 72.7%
+  Testing remove feature 18 ➔ Accuracy: 72.7%
+  Testing remove feature 19 ➔ Accuracy: 72.6%
+  Testing remove feature 20 ➔ Accuracy: 71.7%
+  Testing remove feature 21 ➔ Accuracy: 72.1%
+  Testing remove feature 23 ➔ Accuracy: 71.9%
+  Testing remove feature 24 ➔ Accuracy: 73.6%
+  Testing remove feature 25 ➔ Accuracy: 71.8%
+  Testing remove feature 27 ➔ Accuracy: 72.1%
+  Testing remove feature 28 ➔ Accuracy: 73.0%
+  Testing remove feature 29 ➔ Accuracy: 71.2%
+  Testing remove feature 33 ➔ Accuracy: 71.9%
+  Testing remove feature 34 ➔ Accuracy: 73.1%
+  Testing remove feature 35 ➔ Accuracy: 72.2%
+  Testing remove feature 36 ➔ Accuracy: 71.9%
+  Testing remove feature 37 ➔ Accuracy: 72.4%
+  Testing remove feature 38 ➔ Accuracy: 72.3%
+  Testing remove feature 39 ➔ Accuracy: 73.4%
+  Testing remove feature 40 ➔ Accuracy: 72.8%
+
+ Step 8: Removed feature 24
+   Current features: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 23, 25, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40] ➔ Accuracy: 73.6%
+  Testing remove feature 1 ➔ Accuracy: 72.0%
+  Testing remove feature 2 ➔ Accuracy: 73.0%
+  Testing remove feature 3 ➔ Accuracy: 73.4%
+  Testing remove feature 4 ➔ Accuracy: 71.5%
+  Testing remove feature 5 ➔ Accuracy: 72.0%
+  Testing remove feature 6 ➔ Accuracy: 72.8%
+  Testing remove feature 7 ➔ Accuracy: 73.2%
+  Testing remove feature 8 ➔ Accuracy: 72.6%
+  Testing remove feature 9 ➔ Accuracy: 71.4%
+  Testing remove feature 11 ➔ Accuracy: 73.3%
+  Testing remove feature 12 ➔ Accuracy: 72.2%
+  Testing remove feature 13 ➔ Accuracy: 72.5%
+  Testing remove feature 14 ➔ Accuracy: 71.8%
+  Testing remove feature 16 ➔ Accuracy: 71.8%
+  Testing remove feature 17 ➔ Accuracy: 71.6%
+  Testing remove feature 18 ➔ Accuracy: 72.5%
+  Testing remove feature 19 ➔ Accuracy: 72.3%
+  Testing remove feature 20 ➔ Accuracy: 71.5%
+  Testing remove feature 21 ➔ Accuracy: 73.6%
+  Testing remove feature 23 ➔ Accuracy: 72.1%
+  Testing remove feature 25 ➔ Accuracy: 71.7%
+  Testing remove feature 27 ➔ Accuracy: 72.0%
+  Testing remove feature 28 ➔ Accuracy: 71.2%
+  Testing remove feature 29 ➔ Accuracy: 72.2%
+  Testing remove feature 33 ➔ Accuracy: 72.0%
+  Testing remove feature 34 ➔ Accuracy: 71.8%
+  Testing remove feature 35 ➔ Accuracy: 72.8%
+  Testing remove feature 36 ➔ Accuracy: 72.0%
+  Testing remove feature 37 ➔ Accuracy: 71.4%
+  Testing remove feature 38 ➔ Accuracy: 73.0%
+  Testing remove feature 39 ➔ Accuracy: 72.5%
+  Testing remove feature 40 ➔ Accuracy: 73.3%
+
+ Step 9: Removed feature 21
+   Current features: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40] ➔ Accuracy: 73.6%
+  Testing remove feature 1 ➔ Accuracy: 72.7%
+  Testing remove feature 2 ➔ Accuracy: 73.3%
+  Testing remove feature 3 ➔ Accuracy: 72.5%
+  Testing remove feature 4 ➔ Accuracy: 71.6%
+  Testing remove feature 5 ➔ Accuracy: 71.1%
+  Testing remove feature 6 ➔ Accuracy: 72.5%
+  Testing remove feature 7 ➔ Accuracy: 72.8%
+  Testing remove feature 8 ➔ Accuracy: 73.0%
+  Testing remove feature 9 ➔ Accuracy: 71.3%
+  Testing remove feature 11 ➔ Accuracy: 73.1%
+  Testing remove feature 12 ➔ Accuracy: 72.0%
+  Testing remove feature 13 ➔ Accuracy: 72.4%
+  Testing remove feature 14 ➔ Accuracy: 71.9%
+  Testing remove feature 16 ➔ Accuracy: 73.3%
+  Testing remove feature 17 ➔ Accuracy: 73.1%
+  Testing remove feature 18 ➔ Accuracy: 72.6%
+  Testing remove feature 19 ➔ Accuracy: 72.7%
+  Testing remove feature 20 ➔ Accuracy: 72.4%
+  Testing remove feature 23 ➔ Accuracy: 72.4%
+  Testing remove feature 25 ➔ Accuracy: 72.4%
+  Testing remove feature 27 ➔ Accuracy: 72.1%
+  Testing remove feature 28 ➔ Accuracy: 71.1%
+  Testing remove feature 29 ➔ Accuracy: 72.7%
+  Testing remove feature 33 ➔ Accuracy: 72.7%
+  Testing remove feature 34 ➔ Accuracy: 72.3%
+  Testing remove feature 35 ➔ Accuracy: 73.4%
+  Testing remove feature 36 ➔ Accuracy: 71.7%
+  Testing remove feature 37 ➔ Accuracy: 71.5%
+  Testing remove feature 38 ➔ Accuracy: 73.4%
+  Testing remove feature 39 ➔ Accuracy: 72.4%
+  Testing remove feature 40 ➔ Accuracy: 72.6%
+
+ Step 10: Removed feature 35
+   Current features: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 38, 39, 40] ➔ Accuracy: 73.4%
+  Testing remove feature 1 ➔ Accuracy: 72.6%
+  Testing remove feature 2 ➔ Accuracy: 73.9%
+  Testing remove feature 3 ➔ Accuracy: 73.3%
+  Testing remove feature 4 ➔ Accuracy: 72.3%
+  Testing remove feature 5 ➔ Accuracy: 71.4%
+  Testing remove feature 6 ➔ Accuracy: 72.6%
+  Testing remove feature 7 ➔ Accuracy: 71.6%
+  Testing remove feature 8 ➔ Accuracy: 72.8%
+  Testing remove feature 9 ➔ Accuracy: 71.8%
+  Testing remove feature 11 ➔ Accuracy: 72.4%
+  Testing remove feature 12 ➔ Accuracy: 72.3%
+  Testing remove feature 13 ➔ Accuracy: 72.0%
+  Testing remove feature 14 ➔ Accuracy: 72.8%
+  Testing remove feature 16 ➔ Accuracy: 73.2%
+  Testing remove feature 17 ➔ Accuracy: 72.3%
+  Testing remove feature 18 ➔ Accuracy: 72.4%
+  Testing remove feature 19 ➔ Accuracy: 72.1%
+  Testing remove feature 20 ➔ Accuracy: 72.3%
+  Testing remove feature 23 ➔ Accuracy: 72.3%
+  Testing remove feature 25 ➔ Accuracy: 72.7%
+  Testing remove feature 27 ➔ Accuracy: 72.6%
+  Testing remove feature 28 ➔ Accuracy: 71.9%
+  Testing remove feature 29 ➔ Accuracy: 72.3%
+  Testing remove feature 33 ➔ Accuracy: 72.6%
+  Testing remove feature 34 ➔ Accuracy: 72.7%
+  Testing remove feature 36 ➔ Accuracy: 71.9%
+  Testing remove feature 37 ➔ Accuracy: 71.1%
+  Testing remove feature 38 ➔ Accuracy: 73.0%
+  Testing remove feature 39 ➔ Accuracy: 71.9%
+  Testing remove feature 40 ➔ Accuracy: 73.3%
+
+ Step 11: Removed feature 2
+   Current features: [1, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 38, 39, 40] ➔ Accuracy: 73.9%
+  Testing remove feature 1 ➔ Accuracy: 73.6%
+  Testing remove feature 3 ➔ Accuracy: 75.1%
+  Testing remove feature 4 ➔ Accuracy: 72.3%
+  Testing remove feature 5 ➔ Accuracy: 73.1%
+  Testing remove feature 6 ➔ Accuracy: 72.4%
+  Testing remove feature 7 ➔ Accuracy: 73.0%
+  Testing remove feature 8 ➔ Accuracy: 72.7%
+  Testing remove feature 9 ➔ Accuracy: 72.5%
+  Testing remove feature 11 ➔ Accuracy: 74.8%
+  Testing remove feature 12 ➔ Accuracy: 72.8%
+  Testing remove feature 13 ➔ Accuracy: 72.7%
+  Testing remove feature 14 ➔ Accuracy: 73.9%
+  Testing remove feature 16 ➔ Accuracy: 74.6%
+  Testing remove feature 17 ➔ Accuracy: 73.2%
+  Testing remove feature 18 ➔ Accuracy: 73.3%
+  Testing remove feature 19 ➔ Accuracy: 72.7%
+  Testing remove feature 20 ➔ Accuracy: 73.3%
+  Testing remove feature 23 ➔ Accuracy: 73.6%
+  Testing remove feature 25 ➔ Accuracy: 71.7%
+  Testing remove feature 27 ➔ Accuracy: 72.4%
+  Testing remove feature 28 ➔ Accuracy: 72.2%
+  Testing remove feature 29 ➔ Accuracy: 73.0%
+  Testing remove feature 33 ➔ Accuracy: 73.2%
+  Testing remove feature 34 ➔ Accuracy: 73.3%
+  Testing remove feature 36 ➔ Accuracy: 72.7%
+  Testing remove feature 37 ➔ Accuracy: 72.1%
+  Testing remove feature 38 ➔ Accuracy: 72.7%
+  Testing remove feature 39 ➔ Accuracy: 72.1%
+  Testing remove feature 40 ➔ Accuracy: 73.8%
+
+ Step 12: Removed feature 3
+   Current features: [1, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 38, 39, 40] ➔ Accuracy: 75.1%
+  Testing remove feature 1 ➔ Accuracy: 73.5%
+  Testing remove feature 4 ➔ Accuracy: 73.4%
+  Testing remove feature 5 ➔ Accuracy: 73.5%
+  Testing remove feature 6 ➔ Accuracy: 74.4%
+  Testing remove feature 7 ➔ Accuracy: 73.1%
+  Testing remove feature 8 ➔ Accuracy: 73.1%
+  Testing remove feature 9 ➔ Accuracy: 73.6%
+  Testing remove feature 11 ➔ Accuracy: 73.9%
+  Testing remove feature 12 ➔ Accuracy: 74.3%
+  Testing remove feature 13 ➔ Accuracy: 73.2%
+  Testing remove feature 14 ➔ Accuracy: 74.1%
+  Testing remove feature 16 ➔ Accuracy: 75.0%
+  Testing remove feature 17 ➔ Accuracy: 73.5%
+  Testing remove feature 18 ➔ Accuracy: 73.7%
+  Testing remove feature 19 ➔ Accuracy: 74.1%
+  Testing remove feature 20 ➔ Accuracy: 74.0%
+  Testing remove feature 23 ➔ Accuracy: 74.7%
+  Testing remove feature 25 ➔ Accuracy: 72.7%
+  Testing remove feature 27 ➔ Accuracy: 72.7%
+  Testing remove feature 28 ➔ Accuracy: 72.7%
+  Testing remove feature 29 ➔ Accuracy: 74.6%
+  Testing remove feature 33 ➔ Accuracy: 73.3%
+  Testing remove feature 34 ➔ Accuracy: 74.3%
+  Testing remove feature 36 ➔ Accuracy: 74.9%
+  Testing remove feature 37 ➔ Accuracy: 72.7%
+  Testing remove feature 38 ➔ Accuracy: 73.2%
+  Testing remove feature 39 ➔ Accuracy: 73.6%
+  Testing remove feature 40 ➔ Accuracy: 74.2%
+
+ Step 13: Removed feature 16
+   Current features: [1, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 38, 39, 40] ➔ Accuracy: 75.0%
+  Testing remove feature 1 ➔ Accuracy: 73.8%
+  Testing remove feature 4 ➔ Accuracy: 72.9%
+  Testing remove feature 5 ➔ Accuracy: 73.1%
+  Testing remove feature 6 ➔ Accuracy: 72.9%
+  Testing remove feature 7 ➔ Accuracy: 74.0%
+  Testing remove feature 8 ➔ Accuracy: 72.6%
+  Testing remove feature 9 ➔ Accuracy: 73.8%
+  Testing remove feature 11 ➔ Accuracy: 75.1%
+  Testing remove feature 12 ➔ Accuracy: 73.8%
+  Testing remove feature 13 ➔ Accuracy: 73.1%
+  Testing remove feature 14 ➔ Accuracy: 74.9%
+  Testing remove feature 17 ➔ Accuracy: 74.1%
+  Testing remove feature 18 ➔ Accuracy: 73.0%
+  Testing remove feature 19 ➔ Accuracy: 73.7%
+  Testing remove feature 20 ➔ Accuracy: 74.1%
+  Testing remove feature 23 ➔ Accuracy: 74.0%
+  Testing remove feature 25 ➔ Accuracy: 73.5%
+  Testing remove feature 27 ➔ Accuracy: 73.1%
+  Testing remove feature 28 ➔ Accuracy: 73.2%
+  Testing remove feature 29 ➔ Accuracy: 74.8%
+  Testing remove feature 33 ➔ Accuracy: 74.6%
+  Testing remove feature 34 ➔ Accuracy: 74.4%
+  Testing remove feature 36 ➔ Accuracy: 74.6%
+  Testing remove feature 37 ➔ Accuracy: 73.0%
+  Testing remove feature 38 ➔ Accuracy: 73.9%
+  Testing remove feature 39 ➔ Accuracy: 73.6%
+  Testing remove feature 40 ➔ Accuracy: 74.7%
+
+ Step 14: Removed feature 11
+   Current features: [1, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 38, 39, 40] ➔ Accuracy: 75.1%
+  Testing remove feature 1 ➔ Accuracy: 74.9%
+  Testing remove feature 4 ➔ Accuracy: 72.9%
+  Testing remove feature 5 ➔ Accuracy: 73.1%
+  Testing remove feature 6 ➔ Accuracy: 72.6%
+  Testing remove feature 7 ➔ Accuracy: 73.4%
+  Testing remove feature 8 ➔ Accuracy: 74.1%
+  Testing remove feature 9 ➔ Accuracy: 73.4%
+  Testing remove feature 12 ➔ Accuracy: 72.1%
+  Testing remove feature 13 ➔ Accuracy: 73.5%
+  Testing remove feature 14 ➔ Accuracy: 73.7%
+  Testing remove feature 17 ➔ Accuracy: 74.2%
+  Testing remove feature 18 ➔ Accuracy: 72.6%
+  Testing remove feature 19 ➔ Accuracy: 73.5%
+  Testing remove feature 20 ➔ Accuracy: 72.5%
+  Testing remove feature 23 ➔ Accuracy: 73.8%
+  Testing remove feature 25 ➔ Accuracy: 72.9%
+  Testing remove feature 27 ➔ Accuracy: 74.0%
+  Testing remove feature 28 ➔ Accuracy: 73.0%
+  Testing remove feature 29 ➔ Accuracy: 74.1%
+  Testing remove feature 33 ➔ Accuracy: 73.9%
+  Testing remove feature 34 ➔ Accuracy: 74.4%
+  Testing remove feature 36 ➔ Accuracy: 73.0%
+  Testing remove feature 37 ➔ Accuracy: 73.5%
+  Testing remove feature 38 ➔ Accuracy: 75.8%
+  Testing remove feature 39 ➔ Accuracy: 73.4%
+  Testing remove feature 40 ➔ Accuracy: 74.8%
+
+ Step 15: Removed feature 38
+   Current features: [1, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 39, 40] ➔ Accuracy: 75.8%
+  Testing remove feature 1 ➔ Accuracy: 74.0%
+  Testing remove feature 4 ➔ Accuracy: 73.7%
+  Testing remove feature 5 ➔ Accuracy: 73.3%
+  Testing remove feature 6 ➔ Accuracy: 73.2%
+  Testing remove feature 7 ➔ Accuracy: 74.4%
+  Testing remove feature 8 ➔ Accuracy: 73.3%
+  Testing remove feature 9 ➔ Accuracy: 74.0%
+  Testing remove feature 12 ➔ Accuracy: 73.0%
+  Testing remove feature 13 ➔ Accuracy: 74.0%
+  Testing remove feature 14 ➔ Accuracy: 74.3%
+  Testing remove feature 17 ➔ Accuracy: 75.6%
+  Testing remove feature 18 ➔ Accuracy: 74.2%
+  Testing remove feature 19 ➔ Accuracy: 74.2%
+  Testing remove feature 20 ➔ Accuracy: 74.3%
+  Testing remove feature 23 ➔ Accuracy: 73.6%
+  Testing remove feature 25 ➔ Accuracy: 74.5%
+  Testing remove feature 27 ➔ Accuracy: 74.9%
+  Testing remove feature 28 ➔ Accuracy: 72.3%
+  Testing remove feature 29 ➔ Accuracy: 73.2%
+  Testing remove feature 33 ➔ Accuracy: 74.4%
+  Testing remove feature 34 ➔ Accuracy: 75.2%
+  Testing remove feature 36 ➔ Accuracy: 75.3%
+  Testing remove feature 37 ➔ Accuracy: 74.2%
+  Testing remove feature 39 ➔ Accuracy: 74.1%
+  Testing remove feature 40 ➔ Accuracy: 75.8%
+
+ Step 16: Removed feature 40
+   Current features: [1, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 39] ➔ Accuracy: 75.8%
+  Testing remove feature 1 ➔ Accuracy: 73.8%
+  Testing remove feature 4 ➔ Accuracy: 74.1%
+  Testing remove feature 5 ➔ Accuracy: 74.9%
+  Testing remove feature 6 ➔ Accuracy: 73.5%
+  Testing remove feature 7 ➔ Accuracy: 74.4%
+  Testing remove feature 8 ➔ Accuracy: 73.8%
+  Testing remove feature 9 ➔ Accuracy: 74.7%
+  Testing remove feature 12 ➔ Accuracy: 74.9%
+  Testing remove feature 13 ➔ Accuracy: 75.5%
+  Testing remove feature 14 ➔ Accuracy: 74.9%
+  Testing remove feature 17 ➔ Accuracy: 75.7%
+  Testing remove feature 18 ➔ Accuracy: 75.0%
+  Testing remove feature 19 ➔ Accuracy: 76.2%
+  Testing remove feature 20 ➔ Accuracy: 74.4%
+  Testing remove feature 23 ➔ Accuracy: 74.4%
+  Testing remove feature 25 ➔ Accuracy: 74.5%
+  Testing remove feature 27 ➔ Accuracy: 75.6%
+  Testing remove feature 28 ➔ Accuracy: 74.1%
+  Testing remove feature 29 ➔ Accuracy: 74.1%
+  Testing remove feature 33 ➔ Accuracy: 73.8%
+  Testing remove feature 34 ➔ Accuracy: 75.3%
+  Testing remove feature 36 ➔ Accuracy: 75.6%
+  Testing remove feature 37 ➔ Accuracy: 75.5%
+  Testing remove feature 39 ➔ Accuracy: 74.2%
+
+ Step 17: Removed feature 19
+   Current features: [1, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 39] ➔ Accuracy: 76.2%
+  Testing remove feature 1 ➔ Accuracy: 73.9%
+  Testing remove feature 4 ➔ Accuracy: 74.9%
+  Testing remove feature 5 ➔ Accuracy: 73.1%
+  Testing remove feature 6 ➔ Accuracy: 73.5%
+  Testing remove feature 7 ➔ Accuracy: 74.2%
+  Testing remove feature 8 ➔ Accuracy: 74.1%
+  Testing remove feature 9 ➔ Accuracy: 74.4%
+  Testing remove feature 12 ➔ Accuracy: 74.7%
+  Testing remove feature 13 ➔ Accuracy: 74.3%
+  Testing remove feature 14 ➔ Accuracy: 72.7%
+  Testing remove feature 17 ➔ Accuracy: 74.9%
+  Testing remove feature 18 ➔ Accuracy: 74.9%
+  Testing remove feature 20 ➔ Accuracy: 75.2%
+  Testing remove feature 23 ➔ Accuracy: 75.1%
+  Testing remove feature 25 ➔ Accuracy: 74.9%
+  Testing remove feature 27 ➔ Accuracy: 74.4%
+  Testing remove feature 28 ➔ Accuracy: 73.9%
+  Testing remove feature 29 ➔ Accuracy: 73.9%
+  Testing remove feature 33 ➔ Accuracy: 73.2%
+  Testing remove feature 34 ➔ Accuracy: 74.3%
+  Testing remove feature 36 ➔ Accuracy: 75.4%
+  Testing remove feature 37 ➔ Accuracy: 75.2%
+  Testing remove feature 39 ➔ Accuracy: 73.0%
+
+ Step 18: Removed feature 36
+   Current features: [1, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 20, 23, 25, 27, 28, 29, 33, 34, 37, 39] ➔ Accuracy: 75.4%
+  Testing remove feature 1 ➔ Accuracy: 74.4%
+  Testing remove feature 4 ➔ Accuracy: 74.2%
+  Testing remove feature 5 ➔ Accuracy: 72.9%
+  Testing remove feature 6 ➔ Accuracy: 75.6%
+  Testing remove feature 7 ➔ Accuracy: 74.2%
+  Testing remove feature 8 ➔ Accuracy: 73.7%
+  Testing remove feature 9 ➔ Accuracy: 73.1%
+  Testing remove feature 12 ➔ Accuracy: 73.9%
+  Testing remove feature 13 ➔ Accuracy: 74.7%
+  Testing remove feature 14 ➔ Accuracy: 73.8%
+  Testing remove feature 17 ➔ Accuracy: 74.8%
+  Testing remove feature 18 ➔ Accuracy: 74.3%
+  Testing remove feature 20 ➔ Accuracy: 74.4%
+  Testing remove feature 23 ➔ Accuracy: 75.3%
+  Testing remove feature 25 ➔ Accuracy: 74.1%
+  Testing remove feature 27 ➔ Accuracy: 73.8%
+  Testing remove feature 28 ➔ Accuracy: 73.9%
+  Testing remove feature 29 ➔ Accuracy: 74.5%
+  Testing remove feature 33 ➔ Accuracy: 74.7%
+  Testing remove feature 34 ➔ Accuracy: 74.4%
+  Testing remove feature 37 ➔ Accuracy: 75.0%
+  Testing remove feature 39 ➔ Accuracy: 74.3%
+
+ Step 19: Removed feature 6
+   Current features: [1, 4, 5, 7, 8, 9, 12, 13, 14, 17, 18, 20, 23, 25, 27, 28, 29, 33, 34, 37, 39] ➔ Accuracy: 75.6%
+  Testing remove feature 1 ➔ Accuracy: 72.0%
+  Testing remove feature 4 ➔ Accuracy: 72.5%
+  Testing remove feature 5 ➔ Accuracy: 71.4%
+  Testing remove feature 7 ➔ Accuracy: 74.4%
+  Testing remove feature 8 ➔ Accuracy: 73.9%
+  Testing remove feature 9 ➔ Accuracy: 73.0%
+  Testing remove feature 12 ➔ Accuracy: 74.7%
+  Testing remove feature 13 ➔ Accuracy: 74.0%
+  Testing remove feature 14 ➔ Accuracy: 73.0%
+  Testing remove feature 17 ➔ Accuracy: 72.4%
+  Testing remove feature 18 ➔ Accuracy: 73.2%
+  Testing remove feature 20 ➔ Accuracy: 72.4%
+  Testing remove feature 23 ➔ Accuracy: 74.4%
+  Testing remove feature 25 ➔ Accuracy: 72.2%
+  Testing remove feature 27 ➔ Accuracy: 73.2%
+  Testing remove feature 28 ➔ Accuracy: 73.7%
+  Testing remove feature 29 ➔ Accuracy: 73.9%
+  Testing remove feature 33 ➔ Accuracy: 75.0%
+  Testing remove feature 34 ➔ Accuracy: 73.7%
+  Testing remove feature 37 ➔ Accuracy: 74.3%
+  Testing remove feature 39 ➔ Accuracy: 73.5%
+
+ Step 20: Removed feature 33
+   Current features: [1, 4, 5, 7, 8, 9, 12, 13, 14, 17, 18, 20, 23, 25, 27, 28, 29, 34, 37, 39] ➔ Accuracy: 75.0%
+  Testing remove feature 1 ➔ Accuracy: 73.1%
+  Testing remove feature 4 ➔ Accuracy: 73.8%
+  Testing remove feature 5 ➔ Accuracy: 72.4%
+  Testing remove feature 7 ➔ Accuracy: 73.5%
+  Testing remove feature 8 ➔ Accuracy: 74.5%
+  Testing remove feature 9 ➔ Accuracy: 73.5%
+  Testing remove feature 12 ➔ Accuracy: 73.6%
+  Testing remove feature 13 ➔ Accuracy: 75.4%
+  Testing remove feature 14 ➔ Accuracy: 72.6%
+  Testing remove feature 17 ➔ Accuracy: 73.8%
+  Testing remove feature 18 ➔ Accuracy: 73.5%
+  Testing remove feature 20 ➔ Accuracy: 72.1%
+  Testing remove feature 23 ➔ Accuracy: 73.7%
+  Testing remove feature 25 ➔ Accuracy: 73.6%
+  Testing remove feature 27 ➔ Accuracy: 72.5%
+  Testing remove feature 28 ➔ Accuracy: 74.1%
+  Testing remove feature 29 ➔ Accuracy: 73.1%
+  Testing remove feature 34 ➔ Accuracy: 74.1%
+  Testing remove feature 37 ➔ Accuracy: 74.7%
+  Testing remove feature 39 ➔ Accuracy: 72.0%
+
+ Step 21: Removed feature 13
+   Current features: [1, 4, 5, 7, 8, 9, 12, 14, 17, 18, 20, 23, 25, 27, 28, 29, 34, 37, 39] ➔ Accuracy: 75.4%
+  Testing remove feature 1 ➔ Accuracy: 73.3%
+  Testing remove feature 4 ➔ Accuracy: 73.5%
+  Testing remove feature 5 ➔ Accuracy: 72.0%
+  Testing remove feature 7 ➔ Accuracy: 72.9%
+  Testing remove feature 8 ➔ Accuracy: 74.1%
+  Testing remove feature 9 ➔ Accuracy: 73.6%
+  Testing remove feature 12 ➔ Accuracy: 74.4%
+  Testing remove feature 14 ➔ Accuracy: 73.8%
+  Testing remove feature 17 ➔ Accuracy: 74.2%
+  Testing remove feature 18 ➔ Accuracy: 74.9%
+  Testing remove feature 20 ➔ Accuracy: 72.8%
+  Testing remove feature 23 ➔ Accuracy: 74.9%
+  Testing remove feature 25 ➔ Accuracy: 74.7%
+  Testing remove feature 27 ➔ Accuracy: 74.0%
+  Testing remove feature 28 ➔ Accuracy: 73.2%
+  Testing remove feature 29 ➔ Accuracy: 72.6%
+  Testing remove feature 34 ➔ Accuracy: 74.2%
+  Testing remove feature 37 ➔ Accuracy: 75.2%
+  Testing remove feature 39 ➔ Accuracy: 73.4%
+
+ Step 22: Removed feature 37
+   Current features: [1, 4, 5, 7, 8, 9, 12, 14, 17, 18, 20, 23, 25, 27, 28, 29, 34, 39] ➔ Accuracy: 75.2%
+  Testing remove feature 1 ➔ Accuracy: 73.3%
+  Testing remove feature 4 ➔ Accuracy: 72.5%
+  Testing remove feature 5 ➔ Accuracy: 71.8%
+  Testing remove feature 7 ➔ Accuracy: 73.8%
+  Testing remove feature 8 ➔ Accuracy: 73.5%
+  Testing remove feature 9 ➔ Accuracy: 74.3%
+  Testing remove feature 12 ➔ Accuracy: 72.3%
+  Testing remove feature 14 ➔ Accuracy: 73.3%
+  Testing remove feature 17 ➔ Accuracy: 73.1%
+  Testing remove feature 18 ➔ Accuracy: 74.1%
+  Testing remove feature 20 ➔ Accuracy: 73.4%
+  Testing remove feature 23 ➔ Accuracy: 72.2%
+  Testing remove feature 25 ➔ Accuracy: 73.8%
+  Testing remove feature 27 ➔ Accuracy: 72.6%
+  Testing remove feature 28 ➔ Accuracy: 73.4%
+  Testing remove feature 29 ➔ Accuracy: 72.5%
+  Testing remove feature 34 ➔ Accuracy: 74.3%
+  Testing remove feature 39 ➔ Accuracy: 72.9%
+
+ Step 23: Removed feature 9
+   Current features: [1, 4, 5, 7, 8, 12, 14, 17, 18, 20, 23, 25, 27, 28, 29, 34, 39] ➔ Accuracy: 74.3%
+  Testing remove feature 1 ➔ Accuracy: 73.1%
+  Testing remove feature 4 ➔ Accuracy: 71.8%
+  Testing remove feature 5 ➔ Accuracy: 72.8%
+  Testing remove feature 7 ➔ Accuracy: 72.6%
+  Testing remove feature 8 ➔ Accuracy: 74.4%
+  Testing remove feature 12 ➔ Accuracy: 72.2%
+  Testing remove feature 14 ➔ Accuracy: 72.8%
+  Testing remove feature 17 ➔ Accuracy: 72.9%
+  Testing remove feature 18 ➔ Accuracy: 74.1%
+  Testing remove feature 20 ➔ Accuracy: 73.9%
+  Testing remove feature 23 ➔ Accuracy: 72.5%
+  Testing remove feature 25 ➔ Accuracy: 74.2%
+  Testing remove feature 27 ➔ Accuracy: 72.2%
+  Testing remove feature 28 ➔ Accuracy: 73.3%
+  Testing remove feature 29 ➔ Accuracy: 72.6%
+  Testing remove feature 34 ➔ Accuracy: 73.9%
+  Testing remove feature 39 ➔ Accuracy: 72.2%
+
+ Step 24: Removed feature 8
+   Current features: [1, 4, 5, 7, 12, 14, 17, 18, 20, 23, 25, 27, 28, 29, 34, 39] ➔ Accuracy: 74.4%
+  Testing remove feature 1 ➔ Accuracy: 73.2%
+  Testing remove feature 4 ➔ Accuracy: 72.1%
+  Testing remove feature 5 ➔ Accuracy: 74.6%
+  Testing remove feature 7 ➔ Accuracy: 73.5%
+  Testing remove feature 12 ➔ Accuracy: 73.9%
+  Testing remove feature 14 ➔ Accuracy: 72.5%
+  Testing remove feature 17 ➔ Accuracy: 73.9%
+  Testing remove feature 18 ➔ Accuracy: 74.2%
+  Testing remove feature 20 ➔ Accuracy: 74.9%
+  Testing remove feature 23 ➔ Accuracy: 73.7%
+  Testing remove feature 25 ➔ Accuracy: 73.7%
+  Testing remove feature 27 ➔ Accuracy: 74.0%
+  Testing remove feature 28 ➔ Accuracy: 73.7%
+  Testing remove feature 29 ➔ Accuracy: 72.5%
+  Testing remove feature 34 ➔ Accuracy: 73.8%
+  Testing remove feature 39 ➔ Accuracy: 73.3%
+
+ Step 25: Removed feature 20
+   Current features: [1, 4, 5, 7, 12, 14, 17, 18, 23, 25, 27, 28, 29, 34, 39] ➔ Accuracy: 74.9%
+  Testing remove feature 1 ➔ Accuracy: 73.2%
+  Testing remove feature 4 ➔ Accuracy: 73.0%
+  Testing remove feature 5 ➔ Accuracy: 74.2%
+  Testing remove feature 7 ➔ Accuracy: 73.1%
+  Testing remove feature 12 ➔ Accuracy: 73.2%
+  Testing remove feature 14 ➔ Accuracy: 72.3%
+  Testing remove feature 17 ➔ Accuracy: 72.4%
+  Testing remove feature 18 ➔ Accuracy: 76.4%
+  Testing remove feature 23 ➔ Accuracy: 74.1%
+  Testing remove feature 25 ➔ Accuracy: 73.6%
+  Testing remove feature 27 ➔ Accuracy: 72.3%
+  Testing remove feature 28 ➔ Accuracy: 73.4%
+  Testing remove feature 29 ➔ Accuracy: 72.0%
+  Testing remove feature 34 ➔ Accuracy: 73.3%
+  Testing remove feature 39 ➔ Accuracy: 72.1%
+
+ Step 26: Removed feature 18
+   Current features: [1, 4, 5, 7, 12, 14, 17, 23, 25, 27, 28, 29, 34, 39] ➔ Accuracy: 76.4%
+  Testing remove feature 1 ➔ Accuracy: 75.2%
+  Testing remove feature 4 ➔ Accuracy: 73.8%
+  Testing remove feature 5 ➔ Accuracy: 73.8%
+  Testing remove feature 7 ➔ Accuracy: 73.3%
+  Testing remove feature 12 ➔ Accuracy: 72.4%
+  Testing remove feature 14 ➔ Accuracy: 72.7%
+  Testing remove feature 17 ➔ Accuracy: 70.9%
+  Testing remove feature 23 ➔ Accuracy: 73.3%
+  Testing remove feature 25 ➔ Accuracy: 73.6%
+  Testing remove feature 27 ➔ Accuracy: 72.5%
+  Testing remove feature 28 ➔ Accuracy: 74.4%
+  Testing remove feature 29 ➔ Accuracy: 73.7%
+  Testing remove feature 34 ➔ Accuracy: 73.6%
+  Testing remove feature 39 ➔ Accuracy: 73.3%
+
+ Step 27: Removed feature 1
+   Current features: [4, 5, 7, 12, 14, 17, 23, 25, 27, 28, 29, 34, 39] ➔ Accuracy: 75.2%
+  Testing remove feature 4 ➔ Accuracy: 74.3%
+  Testing remove feature 5 ➔ Accuracy: 74.5%
+  Testing remove feature 7 ➔ Accuracy: 72.5%
+  Testing remove feature 12 ➔ Accuracy: 73.5%
+  Testing remove feature 14 ➔ Accuracy: 72.5%
+  Testing remove feature 17 ➔ Accuracy: 71.8%
+  Testing remove feature 23 ➔ Accuracy: 73.0%
+  Testing remove feature 25 ➔ Accuracy: 74.6%
+  Testing remove feature 27 ➔ Accuracy: 73.7%
+  Testing remove feature 28 ➔ Accuracy: 73.3%
+  Testing remove feature 29 ➔ Accuracy: 71.8%
+  Testing remove feature 34 ➔ Accuracy: 73.1%
+  Testing remove feature 39 ➔ Accuracy: 72.1%
+
+ Step 28: Removed feature 25
+   Current features: [4, 5, 7, 12, 14, 17, 23, 27, 28, 29, 34, 39] ➔ Accuracy: 74.6%
+  Testing remove feature 4 ➔ Accuracy: 73.1%
+  Testing remove feature 5 ➔ Accuracy: 72.5%
+  Testing remove feature 7 ➔ Accuracy: 72.4%
+  Testing remove feature 12 ➔ Accuracy: 71.9%
+  Testing remove feature 14 ➔ Accuracy: 71.1%
+  Testing remove feature 17 ➔ Accuracy: 72.5%
+  Testing remove feature 23 ➔ Accuracy: 73.2%
+  Testing remove feature 27 ➔ Accuracy: 72.2%
+  Testing remove feature 28 ➔ Accuracy: 73.2%
+  Testing remove feature 29 ➔ Accuracy: 71.6%
+  Testing remove feature 34 ➔ Accuracy: 73.9%
+  Testing remove feature 39 ➔ Accuracy: 72.3%
+
+ Step 29: Removed feature 34
+   Current features: [4, 5, 7, 12, 14, 17, 23, 27, 28, 29, 39] ➔ Accuracy: 73.9%
+  Testing remove feature 4 ➔ Accuracy: 71.5%
+  Testing remove feature 5 ➔ Accuracy: 73.7%
+  Testing remove feature 7 ➔ Accuracy: 73.2%
+  Testing remove feature 12 ➔ Accuracy: 71.3%
+  Testing remove feature 14 ➔ Accuracy: 71.5%
+  Testing remove feature 17 ➔ Accuracy: 74.1%
+  Testing remove feature 23 ➔ Accuracy: 72.7%
+  Testing remove feature 27 ➔ Accuracy: 70.8%
+  Testing remove feature 28 ➔ Accuracy: 74.4%
+  Testing remove feature 29 ➔ Accuracy: 70.2%
+  Testing remove feature 39 ➔ Accuracy: 72.9%
+
+ Step 30: Removed feature 28
+   Current features: [4, 5, 7, 12, 14, 17, 23, 27, 29, 39] ➔ Accuracy: 74.4%
+  Testing remove feature 4 ➔ Accuracy: 72.6%
+  Testing remove feature 5 ➔ Accuracy: 72.1%
+  Testing remove feature 7 ➔ Accuracy: 73.4%
+  Testing remove feature 12 ➔ Accuracy: 71.3%
+  Testing remove feature 14 ➔ Accuracy: 72.6%
+  Testing remove feature 17 ➔ Accuracy: 73.1%
+  Testing remove feature 23 ➔ Accuracy: 71.8%
+  Testing remove feature 27 ➔ Accuracy: 71.9%
+  Testing remove feature 29 ➔ Accuracy: 69.9%
+  Testing remove feature 39 ➔ Accuracy: 71.9%
+
+ Step 31: Removed feature 7
+   Current features: [4, 5, 12, 14, 17, 23, 27, 29, 39] ➔ Accuracy: 73.4%
+  Testing remove feature 4 ➔ Accuracy: 71.8%
+  Testing remove feature 5 ➔ Accuracy: 71.8%
+  Testing remove feature 12 ➔ Accuracy: 70.4%
+  Testing remove feature 14 ➔ Accuracy: 70.8%
+  Testing remove feature 17 ➔ Accuracy: 73.4%
+  Testing remove feature 23 ➔ Accuracy: 72.6%
+  Testing remove feature 27 ➔ Accuracy: 71.7%
+  Testing remove feature 29 ➔ Accuracy: 70.5%
+  Testing remove feature 39 ➔ Accuracy: 71.7%
+
+ Step 32: Removed feature 17
+   Current features: [4, 5, 12, 14, 23, 27, 29, 39] ➔ Accuracy: 73.4%
+  Testing remove feature 4 ➔ Accuracy: 73.5%
+  Testing remove feature 5 ➔ Accuracy: 72.9%
+  Testing remove feature 12 ➔ Accuracy: 72.1%
+  Testing remove feature 14 ➔ Accuracy: 70.8%
+  Testing remove feature 23 ➔ Accuracy: 72.7%
+  Testing remove feature 27 ➔ Accuracy: 70.3%
+  Testing remove feature 29 ➔ Accuracy: 72.4%
+  Testing remove feature 39 ➔ Accuracy: 74.1%
+
+ Step 33: Removed feature 39
+   Current features: [4, 5, 12, 14, 23, 27, 29] ➔ Accuracy: 74.1%
+  Testing remove feature 4 ➔ Accuracy: 73.8%
+  Testing remove feature 5 ➔ Accuracy: 73.1%
+  Testing remove feature 12 ➔ Accuracy: 73.9%
+  Testing remove feature 14 ➔ Accuracy: 73.4%
+  Testing remove feature 23 ➔ Accuracy: 73.6%
+  Testing remove feature 27 ➔ Accuracy: 73.1%
+  Testing remove feature 29 ➔ Accuracy: 73.0%
+
+ Step 34: Removed feature 12
+   Current features: [4, 5, 14, 23, 27, 29] ➔ Accuracy: 73.9%
+  Testing remove feature 4 ➔ Accuracy: 71.3%
+  Testing remove feature 5 ➔ Accuracy: 72.2%
+  Testing remove feature 14 ➔ Accuracy: 72.9%
+  Testing remove feature 23 ➔ Accuracy: 74.2%
+  Testing remove feature 27 ➔ Accuracy: 71.8%
+  Testing remove feature 29 ➔ Accuracy: 70.1%
+
+ Step 35: Removed feature 23
+   Current features: [4, 5, 14, 27, 29] ➔ Accuracy: 74.2%
+  Testing remove feature 4 ➔ Accuracy: 72.5%
+  Testing remove feature 5 ➔ Accuracy: 71.0%
+  Testing remove feature 14 ➔ Accuracy: 72.0%
+  Testing remove feature 27 ➔ Accuracy: 71.5%
+  Testing remove feature 29 ➔ Accuracy: 69.1%
+
+ Step 36: Removed feature 4
+   Current features: [5, 14, 27, 29] ➔ Accuracy: 72.5%
+  Testing remove feature 5 ➔ Accuracy: 71.5%
+  Testing remove feature 14 ➔ Accuracy: 72.4%
+  Testing remove feature 27 ➔ Accuracy: 70.1%
+  Testing remove feature 29 ➔ Accuracy: 71.7%
+
+ Step 37: Removed feature 14
+   Current features: [5, 27, 29] ➔ Accuracy: 72.4%
+  Testing remove feature 5 ➔ Accuracy: 71.5%
+  Testing remove feature 27 ➔ Accuracy: 70.7%
+  Testing remove feature 29 ➔ Accuracy: 69.6%
+
+ Step 38: Removed feature 5
+   Current features: [27, 29] ➔ Accuracy: 71.5%
+  Testing remove feature 27 ➔ Accuracy: 69.2%
+  Testing remove feature 29 ➔ Accuracy: 69.2%
+
+ Step 39: Removed feature 27
+   Current features: [29] ➔ Accuracy: 69.2%
+
+
+=== Final Result(backward) ===
+Optimal feature subset: [29]
+Maximum accuracy achieved: 76.4%
+
+=== Elimination History ===
+Initial | All features | Acc: 68.5%
+Step  1 | -Feature 30 | Acc: 70.0% | Remaining: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+Step  2 | -Feature 22 | Acc: 71.2% | Remaining: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+Step  3 | -Feature 31 | Acc: 71.5% | Remaining: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+Step  4 | -Feature 26 | Acc: 72.4% | Remaining: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+Step  5 | -Feature 32 | Acc: 72.8% | Remaining: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40]
+Step  6 | -Feature 10 | Acc: 72.9% | Remaining: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40]
+Step  7 | -Feature 15 | Acc: 73.6% | Remaining: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40]
+Step  8 | -Feature 24 | Acc: 73.6% | Remaining: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 23, 25, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40]
+Step  9 | -Feature 21 | Acc: 73.6% | Remaining: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40]
+Step 10 | -Feature 35 | Acc: 73.4% | Remaining: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 38, 39, 40]
+Step 11 | -Feature  2 | Acc: 73.9% | Remaining: [1, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 38, 39, 40]
+Step 12 | -Feature  3 | Acc: 75.1% | Remaining: [1, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 38, 39, 40]
+Step 13 | -Feature 16 | Acc: 75.0% | Remaining: [1, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 38, 39, 40]
+Step 14 | -Feature 11 | Acc: 75.1% | Remaining: [1, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 38, 39, 40]
+Step 15 | -Feature 38 | Acc: 75.8% | Remaining: [1, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 39, 40]
+Step 16 | -Feature 40 | Acc: 75.8% | Remaining: [1, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 19, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 39]
+Step 17 | -Feature 19 | Acc: 76.2% | Remaining: [1, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 20, 23, 25, 27, 28, 29, 33, 34, 36, 37, 39]
+Step 18 | -Feature 36 | Acc: 75.4% | Remaining: [1, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 20, 23, 25, 27, 28, 29, 33, 34, 37, 39]
+Step 19 | -Feature  6 | Acc: 75.6% | Remaining: [1, 4, 5, 7, 8, 9, 12, 13, 14, 17, 18, 20, 23, 25, 27, 28, 29, 33, 34, 37, 39]
+Step 20 | -Feature 33 | Acc: 75.0% | Remaining: [1, 4, 5, 7, 8, 9, 12, 13, 14, 17, 18, 20, 23, 25, 27, 28, 29, 34, 37, 39]
+Step 21 | -Feature 13 | Acc: 75.4% | Remaining: [1, 4, 5, 7, 8, 9, 12, 14, 17, 18, 20, 23, 25, 27, 28, 29, 34, 37, 39]
+Step 22 | -Feature 37 | Acc: 75.2% | Remaining: [1, 4, 5, 7, 8, 9, 12, 14, 17, 18, 20, 23, 25, 27, 28, 29, 34, 39]
+Step 23 | -Feature  9 | Acc: 74.3% | Remaining: [1, 4, 5, 7, 8, 12, 14, 17, 18, 20, 23, 25, 27, 28, 29, 34, 39]
+Step 24 | -Feature  8 | Acc: 74.4% | Remaining: [1, 4, 5, 7, 12, 14, 17, 18, 20, 23, 25, 27, 28, 29, 34, 39]
+Step 25 | -Feature 20 | Acc: 74.9% | Remaining: [1, 4, 5, 7, 12, 14, 17, 18, 23, 25, 27, 28, 29, 34, 39]
+Step 26 | -Feature 18 | Acc: 76.4% | Remaining: [1, 4, 5, 7, 12, 14, 17, 23, 25, 27, 28, 29, 34, 39]
+Step 27 | -Feature  1 | Acc: 75.2% | Remaining: [4, 5, 7, 12, 14, 17, 23, 25, 27, 28, 29, 34, 39]
+Step 28 | -Feature 25 | Acc: 74.6% | Remaining: [4, 5, 7, 12, 14, 17, 23, 27, 28, 29, 34, 39]
+Step 29 | -Feature 34 | Acc: 73.9% | Remaining: [4, 5, 7, 12, 14, 17, 23, 27, 28, 29, 39]
+Step 30 | -Feature 28 | Acc: 74.4% | Remaining: [4, 5, 7, 12, 14, 17, 23, 27, 29, 39]
+Step 31 | -Feature  7 | Acc: 73.4% | Remaining: [4, 5, 12, 14, 17, 23, 27, 29, 39]
+Step 32 | -Feature 17 | Acc: 73.4% | Remaining: [4, 5, 12, 14, 23, 27, 29, 39]
+Step 33 | -Feature 39 | Acc: 74.1% | Remaining: [4, 5, 12, 14, 23, 27, 29]
+Step 34 | -Feature 12 | Acc: 73.9% | Remaining: [4, 5, 14, 23, 27, 29]
+Step 35 | -Feature 23 | Acc: 74.2% | Remaining: [4, 5, 14, 27, 29]
+Step 36 | -Feature  4 | Acc: 72.5% | Remaining: [5, 14, 27, 29]
+Step 37 | -Feature 14 | Acc: 72.4% | Remaining: [5, 27, 29]
+Step 38 | -Feature  5 | Acc: 71.5% | Remaining: [27, 29]
+Step 39 | -Feature 27 | Acc: 69.2% | Remaining: [29]

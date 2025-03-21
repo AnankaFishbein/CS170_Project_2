@@ -1,0 +1,138 @@
+
+Loaded 500 instances with 6 features
+
+Validating with strict MATLAB equivalence...
+MATLAB-style Accuracy: 82.20%
+
+Running optimized version...
+Vectorized Accuracy: 82.20%
+
+Starting Forward Selection...
+   Testing feature 1 ➔ Accuracy: 83.8%
+   Testing feature 2 ➔ Accuracy: 66.4%
+   Testing feature 3 ➔ Accuracy: 62.6%
+   Testing feature 4 ➔ Accuracy: 69.8%
+   Testing feature 5 ➔ Accuracy: 66.0%
+   Testing feature 6 ➔ Accuracy: 65.4%
+
+ Step 1: Added feature 1
+   Current features: [1] ➔ Accuracy: 83.8%
+   Testing feature 2 ➔ Accuracy: 84.0%
+   Testing feature 3 ➔ Accuracy: 81.0%
+   Testing feature 4 ➔ Accuracy: 97.4%
+   Testing feature 5 ➔ Accuracy: 83.8%
+   Testing feature 6 ➔ Accuracy: 84.8%
+
+ Step 2: Added feature 4
+   Current features: [1, 4] ➔ Accuracy: 97.4%
+   Testing feature 2 ➔ Accuracy: 92.0%
+   Testing feature 3 ➔ Accuracy: 92.8%
+   Testing feature 5 ➔ Accuracy: 92.0%
+   Testing feature 6 ➔ Accuracy: 91.4%
+
+ Step 3: No improvement. Final accuracy: 97.4%
+
+
+=== Final Result(forward) ===
+Optimal feature subset: [1, 4]
+Maximum accuracy achieved: 97.4%
+
+=== Search History(forward) ===
+Step  1 | +Feature  1 | Acc: 83.8% | Current: [1]
+Step  2 | +Feature  4 | Acc: 97.4% | Current: [1, 4]
+
+Starting Forward Selection (Full Search)
+Total features to evaluate: 6
+
+=== Level 1 ===
+  Testing feature 1 ➔ Accuracy: 83.80%
+  Testing feature 2 ➔ Accuracy: 66.40%
+  Testing feature 3 ➔ Accuracy: 62.60%
+  Testing feature 4 ➔ Accuracy: 69.80%
+  Testing feature 5 ➔ Accuracy: 66.00%
+  Testing feature 6 ➔ Accuracy: 65.40%
+
+=== Level 2 ===
+  Testing feature 2 ➔ Accuracy: 84.00%
+  Testing feature 3 ➔ Accuracy: 81.00%
+  Testing feature 4 ➔ Accuracy: 97.40%
+  Testing feature 5 ➔ Accuracy: 83.80%
+  Testing feature 6 ➔ Accuracy: 84.80%
+
+=== Level 3 ===
+  Testing feature 2 ➔ Accuracy: 92.00%
+  Testing feature 3 ➔ Accuracy: 92.80%
+  Testing feature 5 ➔ Accuracy: 92.00%
+  Testing feature 6 ➔ Accuracy: 91.40%
+  Accuracy dropped from 97.40% to 92.80%
+
+=== Level 4 ===
+  Testing feature 2 ➔ Accuracy: 87.40%
+  Testing feature 5 ➔ Accuracy: 90.00%
+  Testing feature 6 ➔ Accuracy: 89.20%
+  Accuracy dropped from 97.40% to 90.00%
+
+=== Level 5 ===
+  Testing feature 2 ➔ Accuracy: 84.60%
+  Testing feature 6 ➔ Accuracy: 86.40%
+  Accuracy dropped from 97.40% to 86.40%
+
+=== Level 6 ===
+  Testing feature 2 ➔ Accuracy: 82.20%
+  Accuracy dropped from 97.40% to 82.20%
+
+
+=== Final Result(forward full) ===
+Optimal feature subset: [1, 4, 3, 5, 6, 2]
+Maximum accuracy achieved: 97.4%
+
+Starting Backward Elimination (Full Search)
+Initial accuracy with all features: 82.2%
+  Testing remove feature 1 ➔ Accuracy: 69.0%
+  Testing remove feature 2 ➔ Accuracy: 86.4%
+  Testing remove feature 3 ➔ Accuracy: 83.2%
+  Testing remove feature 4 ➔ Accuracy: 74.8%
+  Testing remove feature 5 ➔ Accuracy: 82.4%
+  Testing remove feature 6 ➔ Accuracy: 84.6%
+
+ Step 1: Removed feature 2
+   Current features: [1, 3, 4, 5, 6] ➔ Accuracy: 86.4%
+  Testing remove feature 1 ➔ Accuracy: 72.4%
+  Testing remove feature 3 ➔ Accuracy: 87.8%
+  Testing remove feature 4 ➔ Accuracy: 78.8%
+  Testing remove feature 5 ➔ Accuracy: 89.2%
+  Testing remove feature 6 ➔ Accuracy: 90.0%
+
+ Step 2: Removed feature 6
+   Current features: [1, 3, 4, 5] ➔ Accuracy: 90.0%
+  Testing remove feature 1 ➔ Accuracy: 70.2%
+  Testing remove feature 3 ➔ Accuracy: 92.0%
+  Testing remove feature 4 ➔ Accuracy: 81.6%
+  Testing remove feature 5 ➔ Accuracy: 92.8%
+
+ Step 3: Removed feature 5
+   Current features: [1, 3, 4] ➔ Accuracy: 92.8%
+  Testing remove feature 1 ➔ Accuracy: 67.0%
+  Testing remove feature 3 ➔ Accuracy: 97.4%
+  Testing remove feature 4 ➔ Accuracy: 81.0%
+
+ Step 4: Removed feature 3
+   Current features: [1, 4] ➔ Accuracy: 97.4%
+  Testing remove feature 1 ➔ Accuracy: 69.8%
+  Testing remove feature 4 ➔ Accuracy: 83.8%
+
+ Step 5: Removed feature 4
+   Current features: [1] ➔ Accuracy: 83.8%
+
+
+=== Final Result(backward) ===
+Optimal feature subset: [1]
+Maximum accuracy achieved: 97.4%
+
+=== Elimination History ===
+Initial | All features | Acc: 82.2%
+Step  1 | -Feature  2 | Acc: 86.4% | Remaining: [1, 3, 4, 5, 6]
+Step  2 | -Feature  6 | Acc: 90.0% | Remaining: [1, 3, 4, 5]
+Step  3 | -Feature  5 | Acc: 92.8% | Remaining: [1, 3, 4]
+Step  4 | -Feature  3 | Acc: 97.4% | Remaining: [1, 4]
+Step  5 | -Feature  4 | Acc: 83.8% | Remaining: [1]

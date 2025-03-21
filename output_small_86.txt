@@ -1,0 +1,46 @@
+
+Welcome to Ann Xie's Feature Selection Algorithm.
+
+This dataset has 6 features (not including the class attribute), with 500 instances.
+
+Running nearest neighbor with all features, using 'leave-one-out' evaluation, I get an accuracy of 82.2%
+
+Starting Forward Selection (Full Search)
+Total features to evaluate: 6
+
+=== Level 1 ===
+  Testing feature 1 ➔ Accuracy: 83.80%
+  Testing feature 2 ➔ Accuracy: 66.40%
+  Testing feature 3 ➔ Accuracy: 62.60%
+  Testing feature 4 ➔ Accuracy: 69.80%
+  Testing feature 5 ➔ Accuracy: 66.00%
+  Testing feature 6 ➔ Accuracy: 65.40%
+
+=== Level 2 ===
+  Testing feature 2 ➔ Accuracy: 84.00%
+  Testing feature 3 ➔ Accuracy: 81.00%
+  Testing feature 4 ➔ Accuracy: 97.40%
+  Testing feature 5 ➔ Accuracy: 83.80%
+  Testing feature 6 ➔ Accuracy: 84.80%
+
+=== Level 3 ===
+  Testing feature 2 ➔ Accuracy: 92.00%
+  Testing feature 3 ➔ Accuracy: 92.80%
+  Testing feature 5 ➔ Accuracy: 92.00%
+  Testing feature 6 ➔ Accuracy: 91.40%
+  Accuracy dropped from 97.40% to 92.80%
+
+=== Level 4 ===
+  Testing feature 2 ➔ Accuracy: 87.40%
+  Testing feature 5 ➔ Accuracy: 90.00%
+  Testing feature 6 ➔ Accuracy: 89.20%
+  Accuracy dropped from 97.40% to 90.00%
+
+=== Level 5 ===
+  Testing feature 2 ➔ Accuracy: 84.60%
+  Testing feature 6 ➔ Accuracy: 86.40%
+  Accuracy dropped from 97.40% to 86.40%
+
+=== Level 6 ===
+  Testing feature 2 ➔ Accuracy: 82.20%
+  Accuracy dropped from 97.40% to 82.20%
